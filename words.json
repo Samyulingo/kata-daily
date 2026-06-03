@@ -1,0 +1,5002 @@
+[
+  {
+    "indo": "Aku",
+    "en": "I",
+    "sentence": "Aku ingin makan sekarang. (I want to eat now.)"
+  },
+  {
+    "indo": "Tidak",
+    "en": "No / Not",
+    "sentence": "Saya tidak tahu jawabannya. (I don't know the answer.)"
+  },
+  {
+    "indo": "Ini",
+    "en": "This",
+    "sentence": "Ini adalah buku favoritku. (This is my favorite book.)"
+  },
+  {
+    "indo": "Itu",
+    "en": "That",
+    "sentence": "Siapa pria di rumah itu? (Who is the man in that house?)"
+  },
+  {
+    "indo": "Dia",
+    "en": "He / She",
+    "sentence": "Dia sedang bekerja. (He/She is working.)"
+  },
+  {
+    "indo": "Apa",
+    "en": "What",
+    "sentence": "Apa yang kamu mau? (What do you want?)"
+  },
+  {
+    "indo": "Kita",
+    "en": "We",
+    "sentence": "Kita harus pergi sekarang. (We must go now.)"
+  },
+  {
+    "indo": "Bisa",
+    "en": "Can",
+    "sentence": "Apakah kamu bisa bantu saya? (Can you help me?)"
+  },
+  {
+    "indo": "Ada",
+    "en": "There is / To have",
+    "sentence": "Ada makanan di dapur. (There is food in the kitchen.)"
+  },
+  {
+    "indo": "Mereka",
+    "en": "They",
+    "sentence": "Mereka pergi ke pasar. (They go to the market.)"
+  },
+  {
+    "indo": "Saya",
+    "en": "I (Formal)",
+    "sentence": "Saya ingin membeli kopi. (I want to buy coffee.)"
+  },
+  {
+    "indo": "Tahu",
+    "en": "To know",
+    "sentence": "Apakah kamu tahu caranya? (Do you know the way?)"
+  },
+  {
+    "indo": "Ya",
+    "en": "Yes",
+    "sentence": "Ya, saya mengerti. (Yes, I understand.)"
+  },
+  {
+    "indo": "Kami",
+    "en": "We (Exclusive)",
+    "sentence": "Kami sedang belajar. (We are studying.)"
+  },
+  {
+    "indo": "Tapi",
+    "en": "But",
+    "sentence": "Saya mau, tapi tidak bisa. (I want to, but I can't.)"
+  },
+  {
+    "indo": "Harus",
+    "en": "Must",
+    "sentence": "Kamu harus tidur cepat. (You must sleep early.)"
+  },
+  {
+    "indo": "Sudah",
+    "en": "Already",
+    "sentence": "Saya sudah makan. (I have already eaten.)"
+  },
+  {
+    "indo": "Kamu",
+    "en": "You",
+    "sentence": "Kamu mau ke mana? (Where are you going?)"
+  },
+  {
+    "indo": "Orang",
+    "en": "Person / People",
+    "sentence": "Orang itu sangat ramah. (That person is very friendly.)"
+  },
+  {
+    "indo": "Saja",
+    "en": "Just / Only",
+    "sentence": "Saya mau air saja. (I just want water.)"
+  },
+  {
+    "indo": "Ingin",
+    "en": "Want",
+    "sentence": "Saya ingin liburan. (I want a vacation.)"
+  },
+  {
+    "indo": "Pergi",
+    "en": "To go",
+    "sentence": "Ayo pergi ke pantai. (Let's go to the beach.)"
+  },
+  {
+    "indo": "Jika",
+    "en": "If",
+    "sentence": "Jika hujan, kita di rumah. (If it rains, we stay at home.)"
+  },
+  {
+    "indo": "Hanya",
+    "en": "Only",
+    "sentence": "Hanya sepuluh menit. (Only ten minutes.)"
+  },
+  {
+    "indo": "Sini",
+    "en": "Here",
+    "sentence": "Kemari ke sini. (Come here.)"
+  },
+  {
+    "indo": "Sekarang",
+    "en": "Now",
+    "sentence": "Mulai sekarang. (Start now.)"
+  },
+  {
+    "indo": "Semua",
+    "en": "All",
+    "sentence": "Semua sudah siap. (Everything is ready.)"
+  },
+  {
+    "indo": "Dalam",
+    "en": "Inside / In",
+    "sentence": "Ada kunci dalam tas. (There is a key in the bag.)"
+  },
+  {
+    "indo": "Jadi",
+    "en": "So / To become",
+    "sentence": "Jadi, apa rencananya? (So, what is the plan?)"
+  },
+  {
+    "indo": "Baik",
+    "en": "Good",
+    "sentence": "Kabar saya baik. (I am fine/good.)"
+  },
+  {
+    "indo": "Bukan",
+    "en": "Not (noun)",
+    "sentence": "Itu bukan rumah saya. (That is not my house.)"
+  },
+  {
+    "indo": "Jangan",
+    "en": "Don't",
+    "sentence": "Jangan takut. (Don't be afraid.)"
+  },
+  {
+    "indo": "Punya",
+    "en": "To have",
+    "sentence": "Saya punya rencana. (I have a plan.)"
+  },
+  {
+    "indo": "Lagi",
+    "en": "Again",
+    "sentence": "Coba lagi nanti. (Try again later.)"
+  },
+  {
+    "indo": "Lebih",
+    "en": "More",
+    "sentence": "Saya ingin lebih banyak. (I want more.)"
+  },
+  {
+    "indo": "Mungkin",
+    "en": "Maybe",
+    "sentence": "Mungkin besok. (Maybe tomorrow.)"
+  },
+  {
+    "indo": "Sangat",
+    "en": "Very",
+    "sentence": "Ini sangat mudah. (This is very easy.)"
+  },
+  {
+    "indo": "Karena",
+    "en": "Because",
+    "sentence": "Saya senang karena kamu. (I am happy because of you.)"
+  },
+  {
+    "indo": "Apakah",
+    "en": "Question marker",
+    "sentence": "Apakah kamu lelah? (Are you tired?)"
+  },
+  {
+    "indo": "Satu",
+    "en": "One",
+    "sentence": "Beri saya satu. (Give me one.)"
+  },
+  {
+    "indo": "Pernah",
+    "en": "Ever",
+    "sentence": "Pernah ke Bali? (Ever been to Bali?)"
+  },
+  {
+    "indo": "Mau",
+    "en": "Want",
+    "sentence": "Mau kopi? (Want coffee?)"
+  },
+  {
+    "indo": "Ayo",
+    "en": "Let's",
+    "sentence": "Ayo makan! (Let's eat!)"
+  },
+  {
+    "indo": "Siapa",
+    "en": "Who",
+    "sentence": "Siapa nama kamu? (What is your name?)"
+  },
+  {
+    "indo": "Juga",
+    "en": "Also",
+    "sentence": "Saya juga. (Me too.)"
+  },
+  {
+    "indo": "Hal",
+    "en": "Thing",
+    "sentence": "Satu hal penting. (One important thing.)"
+  },
+  {
+    "indo": "Kembali",
+    "en": "Back / Return",
+    "sentence": "Saya akan kembali. (I will return.)"
+  },
+  {
+    "indo": "Atau",
+    "en": "Or",
+    "sentence": "Kopi atau teh? (Coffee or tea?)"
+  },
+  {
+    "indo": "Hari",
+    "en": "Day",
+    "sentence": "Selamat hari raya. (Happy holiday.)"
+  },
+  {
+    "indo": "Melihat",
+    "en": "To see/look at",
+    "sentence": "Saya melihat burung. (I see a bird.)"
+  },
+  {
+    "indo": "Banyak",
+    "en": "Many/Much",
+    "sentence": "Banyak orang datang. (Many people came.)"
+  },
+  {
+    "indo": "Saat",
+    "en": "Moment/When",
+    "sentence": "Saat itu hujan. (At that moment it rained.)"
+  },
+  {
+    "indo": "Benar",
+    "en": "Correct/True",
+    "sentence": "Jawabanmu benar. (Your answer is correct.)"
+  },
+  {
+    "indo": "Terima",
+    "en": "Accept/Receive",
+    "sentence": "Terima hadiah ini. (Accept this gift.)"
+  },
+  {
+    "indo": "Lihat",
+    "en": "Look",
+    "sentence": "Lihat ke sana. (Look over there.)"
+  },
+  {
+    "indo": "Begitu",
+    "en": "Like that/So",
+    "sentence": "Begitu caranya. (That's how you do it.)"
+  },
+  {
+    "indo": "Tentang",
+    "en": "About",
+    "sentence": "Bicara tentang cinta. (Talking about love.)"
+  },
+  {
+    "indo": "Terjadi",
+    "en": "Happen",
+    "sentence": "Apa yang terjadi? (What happened?)"
+  },
+  {
+    "indo": "Bahwa",
+    "en": "That (conjunction)",
+    "sentence": "Saya tahu bahwa dia baik. (I know that he is good.)"
+  },
+  {
+    "indo": "Menjadi",
+    "en": "To become",
+    "sentence": "Dia ingin menjadi dokter. (He wants to become a doctor.)"
+  },
+  {
+    "indo": "Kenapa",
+    "en": "Why",
+    "sentence": "Kenapa kamu sedih? (Why are you sad?)"
+  },
+  {
+    "indo": "Bagus",
+    "en": "Good/Nice",
+    "sentence": "Ide yang bagus! (A good idea!)"
+  },
+  {
+    "indo": "Masih",
+    "en": "Still",
+    "sentence": "Saya masih di sini. (I am still here.)"
+  },
+  {
+    "indo": "Kalau",
+    "en": "If",
+    "sentence": "Kalau bisa, datanglah. (If you can, come.)"
+  },
+  {
+    "indo": "Keluar",
+    "en": "Exit/Go out",
+    "sentence": "Silakan keluar. (Please go out.)"
+  },
+  {
+    "indo": "Mana",
+    "en": "Which/Where",
+    "sentence": "Di mana rumahmu? (Where is your house?)"
+  },
+  {
+    "indo": "Waktu",
+    "en": "Time",
+    "sentence": "Waktu terus berjalan. (Time keeps moving.)"
+  },
+  {
+    "indo": "Malam",
+    "en": "Night",
+    "sentence": "Kerja sampai malam. (Working until night.)"
+  },
+  {
+    "indo": "Tempat",
+    "en": "Place",
+    "sentence": "Cari tempat duduk. (Find a place to sit.)"
+  },
+  {
+    "indo": "Mati",
+    "en": "Dead/Die",
+    "sentence": "Lampu itu mati. (That lamp is dead.)"
+  },
+  {
+    "indo": "Lalu",
+    "en": "Then/Past",
+    "sentence": "Lalu apa? (Then what?)"
+  },
+  {
+    "indo": "Maaf",
+    "en": "Sorry",
+    "sentence": "Maafkan saya. (Forgive me.)"
+  },
+  {
+    "indo": "Dapat",
+    "en": "Get/Can",
+    "sentence": "Saya dapat hadiah. (I got a gift.)"
+  },
+  {
+    "indo": "Anak",
+    "en": "Child",
+    "sentence": "Anak itu lucu. (That child is cute.)"
+  },
+  {
+    "indo": "Tahun",
+    "en": "Year",
+    "sentence": "Tahun depan saya pergi. (Next year I leave.)"
+  },
+  {
+    "indo": "Sedang",
+    "en": "Currently",
+    "sentence": "Saya sedang makan. (I am currently eating.)"
+  },
+  {
+    "indo": "Sampai",
+    "en": "Until/Arrive",
+    "sentence": "Sampai jumpa. (Until we meet.)"
+  },
+  {
+    "indo": "Baru",
+    "en": "New",
+    "sentence": "Saya beli mobil baru. (I bought a new car.)"
+  },
+  {
+    "indo": "Tangan",
+    "en": "Hand",
+    "sentence": "Cuci tanganmu. (Wash your hands.)"
+  },
+  {
+    "indo": "Cinta",
+    "en": "Love",
+    "sentence": "Cinta itu indah. (Love is beautiful.)"
+  },
+  {
+    "indo": "Hidup",
+    "en": "Life/Live",
+    "sentence": "Hidup itu sederhana. (Life is simple.)"
+  },
+  {
+    "indo": "Salah",
+    "en": "Wrong",
+    "sentence": "Itu jawaban salah. (That is the wrong answer.)"
+  },
+  {
+    "indo": "Besar",
+    "en": "Big",
+    "sentence": "Rumahnya besar. (The house is big.)"
+  },
+  {
+    "indo": "Dengar",
+    "en": "Listen/Hear",
+    "sentence": "Dengarkan saya. (Listen to me.)"
+  },
+  {
+    "indo": "Pikir",
+    "en": "Think",
+    "sentence": "Saya pikir begitu. (I think so.)"
+  },
+  {
+    "indo": "Rumah",
+    "en": "House",
+    "sentence": "Pulang ke rumah. (Go home.)"
+  },
+  {
+    "indo": "Dua",
+    "en": "Two",
+    "sentence": "Beri saya dua. (Give me two.)"
+  },
+  {
+    "indo": "Pasti",
+    "en": "Certain",
+    "sentence": "Pasti bisa. (Definitely can.)"
+  },
+  {
+    "indo": "Belum",
+    "en": "Not yet",
+    "sentence": "Belum makan. (Not eaten yet.)"
+  },
+  {
+    "indo": "Bicara",
+    "en": "Talk",
+    "sentence": "Saya bicara pelan. (I talk slowly.)"
+  },
+  {
+    "indo": "Cukup",
+    "en": "Enough",
+    "sentence": "Sudah cukup. (That is enough.)"
+  },
+  {
+    "indo": "Selalu",
+    "en": "Always",
+    "sentence": "Selalu senang. (Always happy.)"
+  },
+  {
+    "indo": "Ibu",
+    "en": "Mother",
+    "sentence": "Ibu saya baik. (My mother is kind.)"
+  },
+  {
+    "indo": "Tinggal",
+    "en": "Stay/Live",
+    "sentence": "Saya tinggal di Bali. (I live in Bali.)"
+  },
+  {
+    "indo": "Sayang",
+    "en": "Love/Dear",
+    "sentence": "Sayangku. (My dear.)"
+  },
+  {
+    "indo": "Jalan",
+    "en": "Walk/Road",
+    "sentence": "Jalan terus. (Walk straight.)"
+  },
+  {
+    "indo": "Lama",
+    "en": "Long time/Old",
+    "sentence": "Sudah lama menunggu. (Waited a long time.)"
+  },
+  {
+    "indo": "Kecil",
+    "en": "Small",
+    "sentence": "Masalah kecil. (A small problem.)"
+  },
+  {
+    "indo": "Terminal",
+    "en": "Terminal",
+    "sentence": "Kita bertemu di terminal bus. (We meet at the bus terminal.)"
+  },
+  {
+    "indo": "Bandara",
+    "en": "Airport",
+    "sentence": "Saya akan ke bandara besok. (I am going to the airport tomorrow.)"
+  },
+  {
+    "indo": "Tiket",
+    "en": "Ticket",
+    "sentence": "Di mana saya bisa beli tiket? (Where can I buy a ticket?)"
+  },
+  {
+    "indo": "Paspor",
+    "en": "Passport",
+    "sentence": "Jangan lupa bawa paspor. (Don't forget to bring your passport.)"
+  },
+  {
+    "indo": "Visa",
+    "en": "Visa",
+    "sentence": "Dia sedang mengurus visa. (He is taking care of his visa.)"
+  },
+  {
+    "indo": "Penerbangan",
+    "en": "Flight",
+    "sentence": "Penerbangan saya jam sepuluh. (My flight is at ten o'clock.)"
+  },
+  {
+    "indo": "Bagasi",
+    "en": "Luggage",
+    "sentence": "Berapa banyak bagasi Anda? (How much luggage do you have?)"
+  },
+  {
+    "indo": "Laporan",
+    "en": "Report",
+    "sentence": "Saya harus menulis laporan. (I must write a report.)"
+  },
+  {
+    "indo": "Proyek",
+    "en": "Project",
+    "sentence": "Proyek ini sangat penting. (This project is very important.)"
+  },
+  {
+    "indo": "Rapat",
+    "en": "Meeting",
+    "sentence": "Mari kita mulai rapatnya. (Let's start the meeting.)"
+  },
+  {
+    "indo": "Komputer",
+    "en": "Computer",
+    "sentence": "Komputer saya sedang rusak. (My computer is broken.)"
+  },
+  {
+    "indo": "Printer",
+    "en": "Printer",
+    "sentence": "Tolong gunakan printer itu. (Please use that printer.)"
+  },
+  {
+    "indo": "Dokumen",
+    "en": "Document",
+    "sentence": "Tanda tangani dokumen ini. (Sign this document.)"
+  },
+  {
+    "indo": "Arsip",
+    "en": "Archive",
+    "sentence": "Cari data itu di arsip. (Find that data in the archive.)"
+  },
+  {
+    "indo": "Staf",
+    "en": "Staff",
+    "sentence": "Staf kami sangat ramah. (Our staff is very friendly.)"
+  },
+  {
+    "indo": "Sebenarnya",
+    "en": "Actually",
+    "sentence": "Sebenarnya, saya tidak tahu. (Actually, I don't know.)"
+  },
+  {
+    "indo": "Ternyata",
+    "en": "It turns out",
+    "sentence": "Ternyata dia benar. (It turns out he was right.)"
+  },
+  {
+    "indo": "Sepertinya",
+    "en": "It seems",
+    "sentence": "Sepertinya akan hujan. (It seems like it will rain.)"
+  },
+  {
+    "indo": "Setidaknya",
+    "en": "At least",
+    "sentence": "Setidaknya mencoba dulu. (At least try first.)"
+  },
+  {
+    "indo": "Terutama",
+    "en": "Especially",
+    "sentence": "Saya suka buah, terutama mangga. (I like fruit, especially mango.)"
+  },
+  {
+    "indo": "Khususnya",
+    "en": "Specifically",
+    "sentence": "Khususnya untuk anak-anak. (Specifically for children.)"
+  },
+  {
+    "indo": "Penting",
+    "en": "Important",
+    "sentence": "Ini adalah hal penting. (This is an important thing.)"
+  },
+  {
+    "indo": "Berharga",
+    "en": "Valuable",
+    "sentence": "Waktu itu sangat berharga. (Time is very valuable.)"
+  },
+  {
+    "indo": "Menarik",
+    "en": "Interesting",
+    "sentence": "Cerita itu sangat menarik. (That story is very interesting.)"
+  },
+  {
+    "indo": "Rumit",
+    "en": "Complicated",
+    "sentence": "Jangan buat ini rumit. (Don't make this complicated.)"
+  },
+  {
+    "indo": "Sederhana",
+    "en": "Simple",
+    "sentence": "Hidup sederhana itu bahagia. (A simple life is happy.)"
+  },
+  {
+    "indo": "Efisien",
+    "en": "Efficient",
+    "sentence": "Kerja dengan cara efisien. (Work in an efficient way.)"
+  },
+  {
+    "indo": "Aman",
+    "en": "Safe",
+    "sentence": "Apakah rumah ini aman? (Is this house safe?)"
+  },
+  {
+    "indo": "Memutuskan",
+    "en": "To decide",
+    "sentence": "Saya sudah memutuskan. (I have decided.)"
+  },
+  {
+    "indo": "Mengatur",
+    "en": "To arrange",
+    "sentence": "Tolong atur jadwalnya. (Please arrange the schedule.)"
+  },
+  {
+    "indo": "Menyelesaikan",
+    "en": "To finish",
+    "sentence": "Mari kita selesaikan ini. (Let's resolve this.)"
+  },
+  {
+    "indo": "Mengirimkan",
+    "en": "To send",
+    "sentence": "Saya kirimkan paketnya. (I send the package.)"
+  },
+  {
+    "indo": "Menerima",
+    "en": "To receive",
+    "sentence": "Saya menerima surat Anda. (I received your letter.)"
+  },
+  {
+    "indo": "Menawarkan",
+    "en": "To offer",
+    "sentence": "Dia menawarkan bantuan. (He offered help.)"
+  },
+  {
+    "indo": "Menolak",
+    "en": "To refuse",
+    "sentence": "Jangan menolak kesempatan. (Don't refuse an opportunity.)"
+  },
+  {
+    "indo": "Menyetujui",
+    "en": "To approve",
+    "sentence": "Saya menyetujui rencana itu. (I approve of the plan.)"
+  },
+  {
+    "indo": "Meminjam",
+    "en": "To borrow",
+    "sentence": "Boleh saya meminjam buku? (May I borrow a book?)"
+  },
+  {
+    "indo": "Meminjamkan",
+    "en": "To lend",
+    "sentence": "Dia meminjamkan saya uang. (He lent me money.)"
+  },
+  {
+    "indo": "Mengingatkan",
+    "en": "To remind",
+    "sentence": "Terima kasih telah mengingatkan. (Thank you for reminding me.)"
+  },
+  {
+    "indo": "Merencanakan",
+    "en": "To plan",
+    "sentence": "Kita merencanakan perjalanan. (We are planning a trip.)"
+  },
+  {
+    "indo": "Kalender",
+    "en": "Calendar",
+    "sentence": "Cek di kalender Anda. (Check your calendar.)"
+  },
+  {
+    "indo": "Kemarin",
+    "en": "Yesterday",
+    "sentence": "Kemarin saya di rumah. (Yesterday I was at home.)"
+  },
+  {
+    "indo": "Besok",
+    "en": "Tomorrow",
+    "sentence": "Sampai jumpa besok. (See you tomorrow.)"
+  },
+  {
+    "indo": "Kemeja",
+    "en": "Shirt",
+    "sentence": "Kemeja ini sangat rapi. (This shirt is very neat.)"
+  },
+  {
+    "indo": "Celana",
+    "en": "Pants",
+    "sentence": "Celana ini agak panjang. (These pants are a bit long.)"
+  },
+  {
+    "indo": "Sepatu",
+    "en": "Shoes",
+    "sentence": "Ikat tali sepatu Anda. (Tie your shoelaces.)"
+  },
+  {
+    "indo": "Topi",
+    "en": "Hat",
+    "sentence": "Pakai topi di bawah matahari. (Wear a hat under the sun.)"
+  },
+  {
+    "indo": "Jaket",
+    "en": "Jacket",
+    "sentence": "Jaket ini sangat hangat. (This jacket is very warm.)"
+  },
+  {
+    "indo": "Kaos",
+    "en": "T-shirt",
+    "sentence": "Saya memakai kaos putih. (I am wearing a white t-shirt.)"
+  },
+  {
+    "indo": "Dompet",
+    "en": "Wallet",
+    "sentence": "Dompet saya ketinggalan. (My wallet was left behind.)"
+  },
+  {
+    "indo": "Matahari",
+    "en": "Sun",
+    "sentence": "Matahari terbit dari timur. (The sun rises from the east.)"
+  },
+  {
+    "indo": "Bintang",
+    "en": "Star",
+    "sentence": "Ada banyak bintang indah. (There are many beautiful stars.)"
+  },
+  {
+    "indo": "Cuaca",
+    "en": "Weather",
+    "sentence": "Bagaimana cuaca hari ini? (How is the weather today?)"
+  },
+  {
+    "indo": "Mendung",
+    "en": "Cloudy",
+    "sentence": "Cuaca mendung, mungkin hujan. (It's cloudy, maybe it will rain.)"
+  },
+  {
+    "indo": "Petir",
+    "en": "Lightning",
+    "sentence": "Ada suara petir keras. (There is a loud thunder sound.)"
+  },
+  {
+    "indo": "Banjir",
+    "en": "Flood",
+    "sentence": "Hujan menyebabkan banjir. (The rain caused a flood.)"
+  },
+  {
+    "indo": "Berdiskusi",
+    "en": "To discuss",
+    "sentence": "Mari berdiskusi tentang ini. (Let's discuss this.)"
+  },
+  {
+    "indo": "Menyarankan",
+    "en": "To suggest",
+    "sentence": "Apa yang Anda sarankan? (What do you suggest?)"
+  },
+  {
+    "indo": "Mencoba",
+    "en": "To try",
+    "sentence": "Saya ingin mencoba lagi. (I want to try again.)"
+  },
+  {
+    "indo": "Menemukan",
+    "en": "To find",
+    "sentence": "Saya menemukan kunci saya. (I found my keys.)"
+  },
+  {
+    "indo": "Kehilangan",
+    "en": "To lose",
+    "sentence": "Saya kehilangan arah. (I lost my way.)"
+  },
+  {
+    "indo": "Membantu",
+    "en": "To help",
+    "sentence": "Bisakah kamu membantu saya? (Can you help me?)"
+  },
+  {
+    "indo": "Memahami",
+    "en": "To understand",
+    "sentence": "Sulit memahami ini. (It's hard to understand this.)"
+  },
+  {
+    "indo": "Menjelaskan",
+    "en": "To explain",
+    "sentence": "Bisa jelaskan lebih detail? (Can you explain in more detail?)"
+  },
+  {
+    "indo": "Menghindari",
+    "en": "To avoid",
+    "sentence": "Kita harus menghindari masalah. (We must avoid trouble.)"
+  },
+  {
+    "indo": "Meningkatkan",
+    "en": "To improve",
+    "sentence": "Mari tingkatkan kualitas kerja. (Let's improve work quality.)"
+  },
+  {
+    "indo": "Mengurangi",
+    "en": "To reduce",
+    "sentence": "Kita harus mengurangi sampah. (We must reduce trash.)"
+  },
+  {
+    "indo": "Mencapai",
+    "en": "To achieve",
+    "sentence": "Kita akan mencapai tujuan. (We will reach the goal.)"
+  },
+  {
+    "indo": "Bekerja sama",
+    "en": "To work together",
+    "sentence": "Kita harus bekerja sama. (We must work together.)"
+  },
+  {
+    "indo": "Memastikan",
+    "en": "To ensure",
+    "sentence": "Pastikan pintu terkunci. (Ensure the door is locked.)"
+  },
+  {
+    "indo": "Menghargai",
+    "en": "To appreciate",
+    "sentence": "Saya menghargai bantuan Anda. (I appreciate your help.)"
+  },
+  {
+    "indo": "Merespons",
+    "en": "To respond",
+    "sentence": "Tolong merespons email ini. (Please respond to this email.)"
+  },
+  {
+    "indo": "Memperhatikan",
+    "en": "To pay attention",
+    "sentence": "Tolong perhatikan instruksi. (Please pay attention to instructions.)"
+  },
+  {
+    "indo": "Berpartisipasi",
+    "en": "To participate",
+    "sentence": "Ayo berpartisipasi dalam acara. (Let's participate in the event.)"
+  },
+  {
+    "indo": "Melindungi",
+    "en": "To protect",
+    "sentence": "Kita harus melindungi alam. (We must protect nature.)"
+  },
+  {
+    "indo": "Menghormati",
+    "en": "To respect",
+    "sentence": "Hormati orang lain. (Respect other people.)"
+  },
+  {
+    "indo": "Mencintai",
+    "en": "To love",
+    "sentence": "Dia mencintai keluarganya. (He loves his family.)"
+  },
+  {
+    "indo": "Membenci",
+    "en": "To hate",
+    "sentence": "Saya membenci cuaca dingin. (I hate cold weather.)"
+  },
+  {
+    "indo": "Menyakiti",
+    "en": "To hurt",
+    "sentence": "Jangan menyakiti hati teman. (Don't hurt a friend's feelings.)"
+  },
+  {
+    "indo": "Menyukai",
+    "en": "To fancy",
+    "sentence": "Saya menyukai kopi ini. (I fancy this coffee.)"
+  },
+  {
+    "indo": "Berharap",
+    "en": "To hope",
+    "sentence": "Saya berharap yang terbaik. (I hope for the best.)"
+  },
+  {
+    "indo": "Berjanji",
+    "en": "To promise",
+    "sentence": "Dia berjanji akan datang. (He promised to come.)"
+  },
+  {
+    "indo": "Menyerah",
+    "en": "To give up",
+    "sentence": "Jangan pernah menyerah! (Never give up!)"
+  },
+  {
+    "indo": "Bertahan",
+    "en": "To survive",
+    "sentence": "Kamu harus bertahan hidup. (You must survive.)"
+  },
+  {
+    "indo": "Berjuang",
+    "en": "To fight",
+    "sentence": "Terus berjuang untuk sukses. (Keep fighting for success.)"
+  },
+  {
+    "indo": "Kepercayaan",
+    "en": "Confidence",
+    "sentence": "Dia punya kepercayaan diri. (He has confidence.)"
+  },
+  {
+    "indo": "Keadilan",
+    "en": "Justice",
+    "sentence": "Hukum harus membawa keadilan. (The law must bring justice.)"
+  },
+  {
+    "indo": "Perlawanan",
+    "en": "Resistance",
+    "sentence": "Mereka melakukan perlawanan hebat. (They made a great resistance.)"
+  },
+  {
+    "indo": "Perjuangan",
+    "en": "Struggle",
+    "sentence": "Ini adalah perjuangan panjang. (This is a long struggle.)"
+  },
+  {
+    "indo": "Kesejahteraan",
+    "en": "Welfare",
+    "sentence": "Pemerintah menjamin kesejahteraan rakyat. (The government guarantees welfare.)"
+  },
+  {
+    "indo": "Pemerintah",
+    "en": "Government",
+    "sentence": "Pemerintah baru telah dilantik. (The new government has been inaugurated.)"
+  },
+  {
+    "indo": "Kebijakan",
+    "en": "Policy",
+    "sentence": "Apa kebijakan perusahaan ini? (What is this company's policy?)"
+  },
+  {
+    "indo": "Pengawasan",
+    "en": "Supervision",
+    "sentence": "Perlu ada pengawasan ketat. (There needs to be strict supervision.)"
+  },
+  {
+    "indo": "Perkumpulan",
+    "en": "Gathering",
+    "sentence": "Mereka mengadakan perkumpulan rutin. (They hold routine gatherings.)"
+  },
+  {
+    "indo": "Organisasi",
+    "en": "Organization",
+    "sentence": "Dia bekerja untuk organisasi itu. (He works for that organization.)"
+  },
+  {
+    "indo": "Keberhasilan",
+    "en": "Success",
+    "sentence": "Keberhasilan ini milik bersama. (This success belongs to everyone.)"
+  },
+  {
+    "indo": "Kekurangan",
+    "en": "Shortage",
+    "sentence": "Ada kekurangan pasokan makanan. (There is a shortage of food supplies.)"
+  },
+  {
+    "indo": "Kelebihan",
+    "en": "Advantage",
+    "sentence": "Apa kelebihan produk ini? (What is the advantage of this product?)"
+  },
+  {
+    "indo": "Penyebab",
+    "en": "Cause",
+    "sentence": "Apa penyebab kecelakaan itu? (What is the cause of that accident?)"
+  },
+  {
+    "indo": "Dampak",
+    "en": "Impact",
+    "sentence": "Dampaknya sangat terasa bagi kami. (The impact is felt by us.)"
+  },
+  {
+    "indo": "Tujuan",
+    "en": "Goal",
+    "sentence": "Apa tujuan akhirmu? (What is your end goal?)"
+  },
+  {
+    "indo": "Sifat",
+    "en": "Nature",
+    "sentence": "Manusia punya sifat alami. (Humans have a natural characteristic.)"
+  },
+  {
+    "indo": "Perilaku",
+    "en": "Behavior",
+    "sentence": "Perilakunya sangat sopan. (His behavior is very polite.)"
+  },
+  {
+    "indo": "Kepribadian",
+    "en": "Personality",
+    "sentence": "Dia punya kepribadian ramah. (He has a friendly personality.)"
+  },
+  {
+    "indo": "Pengalaman",
+    "en": "Experience",
+    "sentence": "Saya punya banyak pengalaman. (I have a lot of experience.)"
+  },
+  {
+    "indo": "Kejadian",
+    "en": "Incident",
+    "sentence": "Saya ingat kejadian itu. (I remember that incident.)"
+  },
+  {
+    "indo": "Kenyataan",
+    "en": "Reality",
+    "sentence": "Hadapilah kenyataan. (Face the reality.)"
+  },
+  {
+    "indo": "Harapan",
+    "en": "Hope",
+    "sentence": "Jangan pernah berhenti berharap. (Never stop hoping.)"
+  },
+  {
+    "indo": "Keinginan",
+    "en": "Wish",
+    "sentence": "Itu adalah keinginan terbesar saya. (That is my biggest wish.)"
+  },
+  {
+    "indo": "Kebutuhan",
+    "en": "Need",
+    "sentence": "Apakah itu kebutuhan mendesak? (Is that an urgent need?)"
+  },
+  {
+    "indo": "Kepentingan",
+    "en": "Interest",
+    "sentence": "Demi kepentingan bersama. (For the sake of mutual interest.)"
+  },
+  {
+    "indo": "Kesempatan",
+    "en": "Opportunity",
+    "sentence": "Jangan buang kesempatan ini. (Don't waste this opportunity.)"
+  },
+  {
+    "indo": "Kemampuan",
+    "en": "Ability",
+    "sentence": "Tunjukkan kemampuan terbaikmu. (Show your best ability.)"
+  },
+  {
+    "indo": "Pengetahuan",
+    "en": "Knowledge",
+    "sentence": "Dunia butuh lebih banyak pengetahuan. (The world needs more knowledge.)"
+  },
+  {
+    "indo": "Pengertian",
+    "en": "Understanding",
+    "sentence": "Saya butuh pengertian kalian. (I need your understanding.)"
+  },
+  {
+    "indo": "Kesalahan",
+    "en": "Mistake",
+    "sentence": "Itu adalah kesalahan teknis. (That was a technical error.)"
+  },
+  {
+    "indo": "Perbaikan",
+    "en": "Improvement",
+    "sentence": "Kita perlu perbaikan besar. (We need major improvements.)"
+  },
+  {
+    "indo": "Perkembangan",
+    "en": "Development",
+    "sentence": "Bagaimana perkembangan proyeknya? (How is the project's progress?)"
+  },
+  {
+    "indo": "Pertumbuhan",
+    "en": "Growth",
+    "sentence": "Pertumbuhan ekonomi sangat pesat. (Economic growth is very rapid.)"
+  },
+  {
+    "indo": "Peningkatan",
+    "en": "Increase",
+    "sentence": "Ada peningkatan drastis. (There is a drastic increase.)"
+  },
+  {
+    "indo": "Penurunan",
+    "en": "Decrease",
+    "sentence": "Harga mengalami penurunan. (Prices experienced a decline.)"
+  },
+  {
+    "indo": "Kestabilan",
+    "en": "Stability",
+    "sentence": "Kestabilan harga itu penting. (Price stability is important.)"
+  },
+  {
+    "indo": "Kerumitan",
+    "en": "Complexity",
+    "sentence": "Saya tidak suka kerumitan. (I don't like complexity.)"
+  },
+  {
+    "indo": "Kejelasan",
+    "en": "Clarity",
+    "sentence": "Bisa berikan saya kejelasan? (Can you give me clarity?)"
+  },
+  {
+    "indo": "Perbedaan",
+    "en": "Difference",
+    "sentence": "Apa perbedaan antara keduanya? (What is the difference between the two?)"
+  },
+  {
+    "indo": "Persamaan",
+    "en": "Similarity",
+    "sentence": "Mereka memiliki banyak persamaan. (They have many similarities.)"
+  },
+  {
+    "indo": "Keseimbangan",
+    "en": "Balance",
+    "sentence": "Kita harus menjaga keseimbangan. (We must maintain balance.)"
+  },
+  {
+    "indo": "Kondisi",
+    "en": "Condition",
+    "sentence": "Kondisi cuaca sangat buruk. (The weather condition is very bad.)"
+  },
+  {
+    "indo": "Situasi",
+    "en": "Situation",
+    "sentence": "Kita harus menilai situasi. (We must assess the situation.)"
+  },
+  {
+    "indo": "Posisi",
+    "en": "Position",
+    "sentence": "Apa posisi Anda di sana? (What is your position there?)"
+  },
+  {
+    "indo": "Lokasi",
+    "en": "Location",
+    "sentence": "Ini lokasi yang strategis. (This is a strategic location.)"
+  },
+  {
+    "indo": "Wilayah",
+    "en": "Region",
+    "sentence": "Ini adalah wilayah terlarang. (This is a forbidden area.)"
+  },
+  {
+    "indo": "Daerah",
+    "en": "District",
+    "sentence": "Saya berasal dari daerah itu. (I come from that region.)"
+  },
+  {
+    "indo": "Kawasan",
+    "en": "Area",
+    "sentence": "Kawasan ini aman untuk turis. (This area is safe for tourists.)"
+  },
+  {
+    "indo": "Pusat",
+    "en": "Center",
+    "sentence": "Kita bertemu di pusat kota. (We meet in the city center.)"
+  },
+  {
+    "indo": "Arah",
+    "en": "Direction",
+    "sentence": "Ke mana arah tujuan kita? (What is our direction?)"
+  },
+  {
+    "indo": "Jarak",
+    "en": "Distance",
+    "sentence": "Jaraknya tidak terlalu jauh. (The distance is not too far.)"
+  },
+  {
+    "indo": "Ukuran",
+    "en": "Size",
+    "sentence": "Apa ukuran baju ini? (What is the size of this shirt?)"
+  },
+  {
+    "indo": "Bentuk",
+    "en": "Shape",
+    "sentence": "Lingkaran adalah bentuk sempurna. (A circle is a perfect shape.)"
+  },
+  {
+    "indo": "Berat",
+    "en": "Weight",
+    "sentence": "Apa berat badanmu sekarang? (What is your weight now?)"
+  },
+  {
+    "indo": "Tinggi",
+    "en": "Height",
+    "sentence": "Berapa tinggi bangunan itu? (How high is that building?)"
+  },
+  {
+    "indo": "Lebar",
+    "en": "Width",
+    "sentence": "Lebar jalan itu lima meter. (The width of that road is five meters.)"
+  },
+  {
+    "indo": "Kecepatan",
+    "en": "Speed",
+    "sentence": "Kecepatannya sangat tinggi. (The speed is very high.)"
+  },
+  {
+    "indo": "Kekuatan",
+    "en": "Power",
+    "sentence": "Itu adalah kekuatan rahasianya. (That is his secret power.)"
+  },
+  {
+    "indo": "Keamanan",
+    "en": "Security",
+    "sentence": "Keamanan adalah prioritas. (Security is a priority.)"
+  },
+  {
+    "indo": "Keselamatan",
+    "en": "Safety",
+    "sentence": "Utamakan keselamatan kerja. (Prioritize work safety.)"
+  },
+  {
+    "indo": "Kebebasan",
+    "en": "Freedom",
+    "sentence": "Kebebasan itu sangat berharga. (Freedom is very valuable.)"
+  },
+  {
+    "indo": "Keberanian",
+    "en": "Courage",
+    "sentence": "Dia menunjukkan keberanian luar biasa. (He showed extraordinary courage.)"
+  },
+  {
+    "indo": "Ketakutan",
+    "en": "Fear",
+    "sentence": "Jangan biarkan ketakutan menang. (Don't let fear win.)"
+  },
+  {
+    "indo": "Kesiapan",
+    "en": "Readiness",
+    "sentence": "Saya meragukan kesiapan mereka. (I doubt their readiness.)"
+  },
+  {
+    "indo": "Kesuksesan",
+    "en": "Success",
+    "sentence": "Dia adalah simbol kesuksesan. (He is a symbol of success.)"
+  },
+  {
+    "indo": "Kegagalan",
+    "en": "Failure",
+    "sentence": "Jangan takut akan kegagalan. (Don't be afraid of failure.)"
+  },
+  {
+    "indo": "Kepedulian",
+    "en": "Concern",
+    "sentence": "Terima kasih atas kepedulian Anda. (Thank you for your concern.)"
+  },
+  {
+    "indo": "Kenyamanan",
+    "en": "Comfort",
+    "sentence": "Hotel ini menawarkan kenyamanan. (This hotel offers comfort.)"
+  },
+  {
+    "indo": "Keajaiban",
+    "en": "Miracle",
+    "sentence": "Ini sebuah keajaiban medis. (This is a medical miracle.)"
+  },
+  {
+    "indo": "Kebenaran",
+    "en": "Truth",
+    "sentence": "Kebenaran akan selalu menang. (The truth will always win.)"
+  },
+  {
+    "indo": "Kebohongan",
+    "en": "Lie",
+    "sentence": "Satu kebohongan menutup seribu kebenaran. (One lie covers a thousand truths.)"
+  },
+  {
+    "indo": "Kejujuran",
+    "en": "Honesty",
+    "sentence": "Kejujuran adalah kebijakan terbaik. (Honesty is the best policy.)"
+  },
+  {
+    "indo": "Ketulusan",
+    "en": "Sincerity",
+    "sentence": "Terima kasih atas ketulusanmu. (Thank you for your sincerity.)"
+  },
+  {
+    "indo": "Kesetiaan",
+    "en": "Loyalty",
+    "sentence": "Kesetiaan adalah hal langka. (Loyalty is a rare thing.)"
+  },
+  {
+    "indo": "Perdamaian",
+    "en": "Peace",
+    "sentence": "Kita semua menginginkan perdamaian. (We all desire peace.)"
+  },
+  {
+    "indo": "Perang",
+    "en": "War",
+    "sentence": "Perang membawa kehancuran. (War brings destruction.)"
+  },
+  {
+    "indo": "Pemerintahan",
+    "en": "Administration",
+    "sentence": "Pemerintahan ini sangat efisien. (This administration is very efficient.)"
+  },
+  {
+    "indo": "Perjanjian",
+    "en": "Agreement",
+    "sentence": "Kita sudah menandatangani perjanjian. (We have signed the agreement.)"
+  },
+  {
+    "indo": "Aturan",
+    "en": "Regulation",
+    "sentence": "Ikuti aturan yang berlaku. (Follow the applicable rules.)"
+  },
+  {
+    "indo": "Hukum",
+    "en": "Law",
+    "sentence": "Tidak ada yang kebal hukum. (No one is above the law.)"
+  },
+  {
+    "indo": "Izin",
+    "en": "Permit",
+    "sentence": "Saya sudah punya izin resmi. (I already have an official permit.)"
+  },
+  {
+    "indo": "Tugas",
+    "en": "Duty",
+    "sentence": "Selesaikan tugasmu sekarang. (Finish your task now.)"
+  },
+  {
+    "indo": "Kewajiban",
+    "en": "Obligation",
+    "sentence": "Itu adalah kewajiban sebagai warga. (That is a citizen's obligation.)"
+  },
+  {
+    "indo": "Hak",
+    "en": "Right",
+    "sentence": "Itu adalah hak asasi Anda. (That is your human right.)"
+  },
+  {
+    "indo": "Serangan",
+    "en": "Attack",
+    "sentence": "Serangan itu terjadi mendadak. (The attack happened suddenly.)"
+  },
+  {
+    "indo": "Pertahanan",
+    "en": "Defense",
+    "sentence": "Pertahanan kita harus diperkuat. (Our defense must be strengthened.)"
+  },
+  {
+    "indo": "Kemenangan",
+    "en": "Victory",
+    "sentence": "Ini adalah kemenangan bagi kita. (This is a victory for us.)"
+  },
+  {
+    "indo": "Kekalahan",
+    "en": "Defeat",
+    "sentence": "Terima kekalahan dengan lapang dada. (Accept defeat with an open heart.)"
+  },
+  {
+    "indo": "Perubahan",
+    "en": "Change",
+    "sentence": "Dunia ini terus mengalami perubahan. (This world constantly undergoes change.)"
+  },
+  {
+    "indo": "Pengaruh",
+    "en": "Influence",
+    "sentence": "Pengaruhnya sangat besar. (The influence is huge.)"
+  },
+  {
+    "indo": "Hubungan",
+    "en": "Connection",
+    "sentence": "Hubungan kami sangat baik. (Our relationship is very good.)"
+  },
+  {
+    "indo": "Pihak",
+    "en": "Party",
+    "sentence": "Kedua pihak harus bertemu. (Both parties must meet.)"
+  },
+  {
+    "indo": "Kehidupan",
+    "en": "Life",
+    "sentence": "Kehidupan ini sangat indah. (This life is very beautiful.)"
+  },
+  {
+    "indo": "Kematian",
+    "en": "Death",
+    "sentence": "Kematian adalah hal pasti. (Death is a certainty.)"
+  },
+  {
+    "indo": "Kebahagiaan",
+    "en": "Happiness",
+    "sentence": "Kebahagiaan dimulai dari diri sendiri. (Happiness starts from within.)"
+  },
+  {
+    "indo": "Kesedihan",
+    "en": "Sadness",
+    "sentence": "Dia menyembunyikan kesedihannya. (She hides her sadness.)"
+  },
+  {
+    "indo": "Kemarahan",
+    "en": "Anger",
+    "sentence": "Kemarahannya tidak terkendali. (His anger is uncontrollable.)"
+  },
+  {
+    "indo": "Lingkungan",
+    "en": "Environment",
+    "sentence": "Kita harus menjaga lingkungan. (We must protect the environment.)"
+  },
+  {
+    "indo": "Pencemaran",
+    "en": "Pollution",
+    "sentence": "Pencemaran air sangat berbahaya. (Water pollution is very dangerous.)"
+  },
+  {
+    "indo": "Sampah",
+    "en": "Trash",
+    "sentence": "Buanglah sampah pada tempatnya. (Throw trash in its place.)"
+  },
+  {
+    "indo": "Daur ulang",
+    "en": "Recycling",
+    "sentence": "Daur ulang itu penting. (Recycling is important.)"
+  },
+  {
+    "indo": "Energi",
+    "en": "Energy",
+    "sentence": "Kita butuh energi terbarukan. (We need renewable energy.)"
+  },
+  {
+    "indo": "Teknologi",
+    "en": "Technology",
+    "sentence": "Teknologi berkembang sangat cepat. (Technology develops very fast.)"
+  },
+  {
+    "indo": "Inovasi",
+    "en": "Innovation",
+    "sentence": "Perusahaan ini penuh inovasi. (This company is full of innovation.)"
+  },
+  {
+    "indo": "Penelitian",
+    "en": "Research",
+    "sentence": "Hasil penelitian ini luar biasa. (The research result is amazing.)"
+  },
+  {
+    "indo": "Eksperimen",
+    "en": "Experiment",
+    "sentence": "Dia sedang melakukan eksperimen. (He is doing an experiment.)"
+  },
+  {
+    "indo": "Ilmuwan",
+    "en": "Scientist",
+    "sentence": "Ilmuwan itu menemukan obat baru. (The scientist discovered a new medicine.)"
+  },
+  {
+    "indo": "Masyarakat",
+    "en": "Community",
+    "sentence": "Masyarakat harus saling membantu. (The community must help each other.)"
+  },
+  {
+    "indo": "Budaya",
+    "en": "Culture",
+    "sentence": "Budaya Indonesia sangat beragam. (Indonesian culture is very diverse.)"
+  },
+  {
+    "indo": "Tradisi",
+    "en": "Tradition",
+    "sentence": "Ini adalah tradisi lama. (This is an old tradition.)"
+  },
+  {
+    "indo": "Pendidikan",
+    "en": "Education",
+    "sentence": "Pendidikan adalah kunci masa depan. (Education is the key to the future.)"
+  },
+  {
+    "indo": "Sekolah",
+    "en": "School",
+    "sentence": "Anak-anak belajar di sekolah. (Children learn at school.)"
+  },
+  {
+    "indo": "Kuliah",
+    "en": "University",
+    "sentence": "Dia sedang kuliah di Jakarta. (He is studying at university in Jakarta.)"
+  },
+  {
+    "indo": "Kesehatan",
+    "en": "Health",
+    "sentence": "Kesehatan lebih berharga dari harta. (Health is more valuable than wealth.)"
+  },
+  {
+    "indo": "Penyakit",
+    "en": "Disease",
+    "sentence": "Mencegah penyakit lebih baik. (Preventing disease is better.)"
+  },
+  {
+    "indo": "Obat",
+    "en": "Medicine",
+    "sentence": "Minumlah obat ini tiga kali. (Take this medicine three times.)"
+  },
+  {
+    "indo": "Rumah sakit",
+    "en": "Hospital",
+    "sentence": "Dia dibawa ke rumah sakit. (He was taken to the hospital.)"
+  },
+  {
+    "indo": "Dokter",
+    "en": "Doctor",
+    "sentence": "Saya harus menemui dokter. (I must see a doctor.)"
+  },
+  {
+    "indo": "Perawat",
+    "en": "Nurse",
+    "sentence": "Perawat itu sangat sabar. (The nurse is very patient.)"
+  },
+  {
+    "indo": "Pasien",
+    "en": "Patient",
+    "sentence": "Pasien itu butuh istirahat. (That patient needs rest.)"
+  },
+  {
+    "indo": "Olahraga",
+    "en": "Exercise",
+    "sentence": "Mari kita berolahraga. (Let's do some exercise.)"
+  },
+  {
+    "indo": "Nutrisi",
+    "en": "Nutrition",
+    "sentence": "Tubuh butuh nutrisi seimbang. (The body needs balanced nutrition.)"
+  },
+  {
+    "indo": "Diet",
+    "en": "Diet",
+    "sentence": "Dia sedang menjalani diet sehat. (She is on a healthy diet.)"
+  },
+  {
+    "indo": "Berat badan",
+    "en": "Body weight",
+    "sentence": "Berat badanku turun. (My body weight went down.)"
+  },
+  {
+    "indo": "Sehat",
+    "en": "Healthy",
+    "sentence": "Makan sayur agar tetap sehat. (Eat vegetables to stay healthy.)"
+  },
+  {
+    "indo": "Pekerjaan",
+    "en": "Job",
+    "sentence": "Dia mencari pekerjaan baru. (He is looking for a new job.)"
+  },
+  {
+    "indo": "Karier",
+    "en": "Career",
+    "sentence": "Dia fokus pada kariernya. (He is focused on his career.)"
+  },
+  {
+    "indo": "Gaji",
+    "en": "Salary",
+    "sentence": "Berapa gajimu bulan ini? (What is your salary this month?)"
+  },
+  {
+    "indo": "Kantor",
+    "en": "Office",
+    "sentence": "Saya akan ke kantor pagi ini. (I am going to the office this morning.)"
+  },
+  {
+    "indo": "Bisnis",
+    "en": "Business",
+    "sentence": "Dia menjalankan bisnis kecil. (He runs a small business.)"
+  },
+  {
+    "indo": "Keuntungan",
+    "en": "Profit",
+    "sentence": "Bisnis ini memberikan keuntungan. (This business provides profit.)"
+  },
+  {
+    "indo": "Kerugian",
+    "en": "Loss",
+    "sentence": "Kami mengalami kerugian tahun ini. (We experienced a loss this year.)"
+  },
+  {
+    "indo": "Pemasaran",
+    "en": "Marketing",
+    "sentence": "Strategi pemasaran ini sangat bagus. (This marketing strategy is very good.)"
+  },
+  {
+    "indo": "Produk",
+    "en": "Product",
+    "sentence": "Produk ini sudah laris. (This product is already a bestseller.)"
+  },
+  {
+    "indo": "Politik",
+    "en": "Politics",
+    "sentence": "Dia tidak suka topik politik. (He does not like politics.)"
+  },
+  {
+    "indo": "Pemilu",
+    "en": "Election",
+    "sentence": "Pemilu akan diadakan besok. (The election will be held tomorrow.)"
+  },
+  {
+    "indo": "Negara",
+    "en": "Country",
+    "sentence": "Ini negara yang damai. (This is a peaceful country.)"
+  },
+  {
+    "indo": "Warga",
+    "en": "Citizen",
+    "sentence": "Dia warga negara asing. (He is a foreign citizen.)"
+  },
+  {
+    "indo": "Keluarga",
+    "en": "Family",
+    "sentence": "Keluarga adalah prioritas utama. (Family is the top priority.)"
+  },
+  {
+    "indo": "Orang tua",
+    "en": "Parents",
+    "sentence": "Hormatilah kedua orang tua. (Respect both parents.)"
+  },
+  {
+    "indo": "Saudara",
+    "en": "Sibling",
+    "sentence": "Aku punya dua saudara. (I have two siblings.)"
+  },
+  {
+    "indo": "Kakek",
+    "en": "Grandfather",
+    "sentence": "Kakek suka berkebun. (Grandfather likes gardening.)"
+  },
+  {
+    "indo": "Nenek",
+    "en": "Grandmother",
+    "sentence": "Nenek membuat masakan enak. (Grandmother makes delicious food.)"
+  },
+  {
+    "indo": "Suami",
+    "en": "Husband",
+    "sentence": "Suaminya sangat baik. (Her husband is very kind.)"
+  },
+  {
+    "indo": "Istri",
+    "en": "Wife",
+    "sentence": "Istri saya sedang bekerja. (My wife is working.)"
+  },
+  {
+    "indo": "Cucu",
+    "en": "Grandchild",
+    "sentence": "Dia punya banyak cucu. (He has many grandchildren.)"
+  },
+  {
+    "indo": "Kerabat",
+    "en": "Relative",
+    "sentence": "Banyak kerabat datang berkunjung. (Many relatives came to visit.)"
+  },
+  {
+    "indo": "Bahagia",
+    "en": "Happy",
+    "sentence": "Hari ini aku merasa sangat bahagia. (Today I feel very happy.)"
+  },
+  {
+    "indo": "Bosan",
+    "en": "Bored",
+    "sentence": "Apakah kamu merasa bosan? (Do you feel bored?)"
+  },
+  {
+    "indo": "Bingung",
+    "en": "Confused",
+    "sentence": "Aku merasa sedikit bingung. (I feel a little confused.)"
+  },
+  {
+    "indo": "Warna",
+    "en": "Color",
+    "sentence": "Apa warna favoritmu? (What is your favorite color?)"
+  },
+  {
+    "indo": "Dahi",
+    "en": "Forehead",
+    "sentence": "Dahinya berkerut. (His forehead is wrinkled.)"
+  },
+  {
+    "indo": "Leher",
+    "en": "Neck",
+    "sentence": "Leher saya sakit. (My neck hurts.)"
+  },
+  {
+    "indo": "Pinggang",
+    "en": "Waist",
+    "sentence": "Ikat pinggang itu bagus. (That belt is nice.)"
+  },
+  {
+    "indo": "Punggung",
+    "en": "Back",
+    "sentence": "Punggung saya pegal. (My back is sore.)"
+  },
+  {
+    "indo": "Bahu",
+    "en": "Shoulder",
+    "sentence": "Bahu saya lelah. (My shoulders are tired.)"
+  },
+  {
+    "indo": "Siku",
+    "en": "Elbow",
+    "sentence": "Jangan senderan di siku. (Don't lean on your elbows.)"
+  },
+  {
+    "indo": "Jari",
+    "en": "Finger",
+    "sentence": "Dia memotong jari saya. (He cut my finger.)"
+  },
+  {
+    "indo": "Kuku",
+    "en": "Nail",
+    "sentence": "Potong kuku yang panjang. (Cut the long nails.)"
+  },
+  {
+    "indo": "Darah",
+    "en": "Blood",
+    "sentence": "Darah mengalir di lukanya. (Blood flows on the wound.)"
+  },
+  {
+    "indo": "Jantung",
+    "en": "Heart",
+    "sentence": "Jantungnya berdetak kencang. (His heart beats fast.)"
+  },
+  {
+    "indo": "Otak",
+    "en": "Brain",
+    "sentence": "Gunakan otak untuk berpikir. (Use the brain to think.)"
+  },
+  {
+    "indo": "Barat",
+    "en": "West",
+    "sentence": "Matahari terbenam di barat. (The sun sets in the west.)"
+  },
+  {
+    "indo": "Timur",
+    "en": "East",
+    "sentence": "Matahari terbit di timur. (The sun rises from the east.)"
+  },
+  {
+    "indo": "Utara",
+    "en": "North",
+    "sentence": "Kita pergi ke arah utara. (We go to the north.)"
+  },
+  {
+    "indo": "Selatan",
+    "en": "South",
+    "sentence": "Angin bertiup dari selatan. (The wind blows from the south.)"
+  },
+  {
+    "indo": "Tengah",
+    "en": "Middle",
+    "sentence": "Di tengah jalan. (In the middle of the road.)"
+  },
+  {
+    "indo": "Harga",
+    "en": "Price",
+    "sentence": "Berapa harganya? (What is the price?)"
+  },
+  {
+    "indo": "Diskon",
+    "en": "Discount",
+    "sentence": "Apakah ada diskon? (Is there a discount?)"
+  },
+  {
+    "indo": "Total",
+    "en": "Total",
+    "sentence": "Totalnya sepuluh ribu. (The total is ten thousand.)"
+  },
+  {
+    "indo": "Bayar",
+    "en": "To pay",
+    "sentence": "Saya mau bayar tunai. (I want to pay in cash.)"
+  },
+  {
+    "indo": "Tunai",
+    "en": "Cash",
+    "sentence": "Boleh bayar tunai? (Can I pay in cash?)"
+  },
+  {
+    "indo": "Kartu",
+    "en": "Card",
+    "sentence": "Saya bayar pakai kartu. (I pay using a card.)"
+  },
+  {
+    "indo": "Kelas",
+    "en": "Class",
+    "sentence": "Kelas dimulai pagi. (Class starts in the morning.)"
+  },
+  {
+    "indo": "Murid",
+    "en": "Student",
+    "sentence": "Murid itu rajin. (That student is diligent.)"
+  },
+  {
+    "indo": "Paham",
+    "en": "Understand",
+    "sentence": "Saya paham maksudmu. (I understand what you mean.)"
+  },
+  {
+    "indo": "Kelemahan",
+    "en": "Weakness",
+    "sentence": "Setiap orang punya kelemahan. (Everyone has a weakness.)"
+  },
+  {
+    "indo": "Pilihan",
+    "en": "Choice",
+    "sentence": "Sulit untuk membuat pilihan. (It is hard to make a choice.)"
+  },
+  {
+    "indo": "Kenangan",
+    "en": "Memory",
+    "sentence": "Ini kenangan indah. (This is a beautiful memory.)"
+  },
+  {
+    "indo": "Rahasia",
+    "en": "Secret",
+    "sentence": "Simpan rahasia ini. (Keep this secret.)"
+  },
+  {
+    "indo": "Reaksi",
+    "en": "Reaction",
+    "sentence": "Bagaimana reaksinya? (What was the reaction?)"
+  },
+  {
+    "indo": "Interaksi",
+    "en": "Interaction",
+    "sentence": "Perlu interaksi sosial. (Need social interaction.)"
+  },
+  {
+    "indo": "Bukti",
+    "en": "Proof",
+    "sentence": "Tidak ada bukti kuat. (There is no strong proof.)"
+  },
+  {
+    "indo": "Kesimpulan",
+    "en": "Conclusion",
+    "sentence": "Apa kesimpulannya? (What is the conclusion?)"
+  },
+  {
+    "indo": "Pengamatan",
+    "en": "Observation",
+    "sentence": "Berdasarkan pengamatan saya. (Based on my observation.)"
+  },
+  {
+    "indo": "Analisis",
+    "en": "Analysis",
+    "sentence": "Analisis ini sangat tajam. (This analysis is very sharp.)"
+  },
+  {
+    "indo": "Pemikiran",
+    "en": "Thinking",
+    "sentence": "Cara pemikirannya unik. (His way of thinking is unique.)"
+  },
+  {
+    "indo": "Kesabaran",
+    "en": "Patience",
+    "sentence": "Kesabaran itu penting. (Patience is important.)"
+  },
+  {
+    "indo": "Kemajuan",
+    "en": "Progress",
+    "sentence": "Sudah ada kemajuan. (There is progress.)"
+  },
+  {
+    "indo": "Keputusan",
+    "en": "Decision",
+    "sentence": "Sudah buat keputusan? (Have you made a decision?)"
+  },
+  {
+    "indo": "Mimpi",
+    "en": "Dream",
+    "sentence": "Jangan menyerah pada mimpi. (Don't give up on dreams.)"
+  },
+  {
+    "indo": "Rencana",
+    "en": "Plan",
+    "sentence": "Jalankan rencana itu. (Run that plan.)"
+  },
+  {
+    "indo": "Program",
+    "en": "Program",
+    "sentence": "Ini program baru. (This is a new program.)"
+  },
+  {
+    "indo": "Aksi",
+    "en": "Action",
+    "sentence": "Waktunya untuk aksi. (Time for action.)"
+  },
+  {
+    "indo": "Komunikasi",
+    "en": "Communication",
+    "sentence": "Komunikasi itu penting. (Communication is important.)"
+  },
+  {
+    "indo": "Informasi",
+    "en": "Information",
+    "sentence": "Bisa berikan informasi? (Can you give information?)"
+  },
+  {
+    "indo": "Data",
+    "en": "Data",
+    "sentence": "Data ini tidak lengkap. (This data is incomplete.)"
+  },
+  {
+    "indo": "Fakta",
+    "en": "Fact",
+    "sentence": "Itu adalah sebuah fakta. (That is a fact.)"
+  },
+  {
+    "indo": "Alasan",
+    "en": "Reason",
+    "sentence": "Apa alasanmu datang? (What is your reason for coming?)"
+  },
+  {
+    "indo": "Kesadaran",
+    "en": "Awareness",
+    "sentence": "Perlu kesadaran lingkungan. (Need environmental awareness.)"
+  },
+  {
+    "indo": "Bulan",
+    "en": "Moon",
+    "sentence": "Bulan terlihat indah. (The moon looks beautiful.)"
+  },
+  {
+    "indo": "Pengorbanan",
+    "en": "Sacrifice",
+    "sentence": "Pengorbanannya sangat besar. (His sacrifice is very great.)"
+  },
+  {
+    "indo": "Perjalanan",
+    "en": "Journey",
+    "sentence": "Perjalanan itu melelahkan. (The journey was exhausting.)"
+  },
+  {
+    "indo": "Keterampilan",
+    "en": "Skill",
+    "sentence": "Dia punya keterampilan teknis. (He has technical skills.)"
+  },
+  {
+    "indo": "Kepemilikan",
+    "en": "Ownership",
+    "sentence": "Status kepemilikan tidak jelas. (The ownership status is unclear.)"
+  },
+  {
+    "indo": "Peradaban",
+    "en": "Civilization",
+    "sentence": "Ini peradaban kuno. (This is an ancient civilization.)"
+  },
+  {
+    "indo": "Kekayaan",
+    "en": "Wealth",
+    "sentence": "Kekayaan bukanlah segalanya. (Wealth is not everything.)"
+  },
+  {
+    "indo": "Kemiskinan",
+    "en": "Poverty",
+    "sentence": "Kita harus melawan kemiskinan. (We must fight poverty.)"
+  },
+  {
+    "indo": "Kegelapan",
+    "en": "Darkness",
+    "sentence": "Dia takut akan kegelapan. (He is afraid of the darkness.)"
+  },
+  {
+    "indo": "Penerangan",
+    "en": "Lighting",
+    "sentence": "Penerangan di sini minim. (The lighting here is minimal.)"
+  },
+  {
+    "indo": "Persiapan",
+    "en": "Preparation",
+    "sentence": "Butuh persiapan yang matang. (Need mature preparation.)"
+  },
+  {
+    "indo": "Penyelesaian",
+    "en": "Resolution",
+    "sentence": "Solusi ini adalah penyelesaian. (This solution is a resolution.)"
+  },
+  {
+    "indo": "Kekecewaan",
+    "en": "Disappointment",
+    "sentence": "Dia tidak bisa menyembunyikan kekecewaan. (He couldn't hide his disappointment.)"
+  },
+  {
+    "indo": "Keyakinan",
+    "en": "Confidence",
+    "sentence": "Dia bicara dengan keyakinan. (He speaks with confidence.)"
+  },
+  {
+    "indo": "Perlindungan",
+    "en": "Protection",
+    "sentence": "Perlindungan hukum perlu. (Legal protection is needed.)"
+  },
+  {
+    "indo": "Bantuan",
+    "en": "Assistance",
+    "sentence": "Terima kasih bantuannya. (Thank you for the assistance.)"
+  },
+  {
+    "indo": "Dukungan",
+    "en": "Support",
+    "sentence": "Kami butuh dukunganmu. (We need your support.)"
+  },
+  {
+    "indo": "Senjata",
+    "en": "Weapon",
+    "sentence": "Simpan senjata itu. (Put away that weapon.)"
+  },
+  {
+    "indo": "Pisau",
+    "en": "Knife",
+    "sentence": "Pisau dapur tajam. (The kitchen knife is sharp.)"
+  },
+  {
+    "indo": "Kamar",
+    "en": "Room",
+    "sentence": "Kamar ini rapi. (This room is tidy.)"
+  },
+  {
+    "indo": "Dinding",
+    "en": "Wall",
+    "sentence": "Dinding itu retak. (The wall is cracked.)"
+  },
+  {
+    "indo": "Lantai",
+    "en": "Floor",
+    "sentence": "Lantai rumah bersih. (The house floor is clean.)"
+  },
+  {
+    "indo": "Atap",
+    "en": "Roof",
+    "sentence": "Perbaiki atap rumah. (Fix the house roof.)"
+  },
+  {
+    "indo": "Jendela",
+    "en": "Window",
+    "sentence": "Buka jendela lebar. (Open the window wide.)"
+  },
+  {
+    "indo": "Meja",
+    "en": "Table",
+    "sentence": "Meja makan kayu. (Wooden dining table.)"
+  },
+  {
+    "indo": "Kursi",
+    "en": "Chair",
+    "sentence": "Kursi itu kayu. (That chair is wood.)"
+  },
+  {
+    "indo": "Tas",
+    "en": "Bag",
+    "sentence": "Tas ini berat. (This bag is heavy.)"
+  },
+  {
+    "indo": "Kotak",
+    "en": "Box",
+    "sentence": "Kotak itu kosong. (That box is empty.)"
+  },
+  {
+    "indo": "Kunci",
+    "en": "Key",
+    "sentence": "Mana kunci mobil? (Where are the car keys?)"
+  },
+  {
+    "indo": "Hebat",
+    "en": "Great",
+    "sentence": "Pekerjaan hebat! (Great work!)"
+  },
+  {
+    "indo": "Aneh",
+    "en": "Strange",
+    "sentence": "Sesuatu yang aneh. (Something strange.)"
+  },
+  {
+    "indo": "Lucu",
+    "en": "Funny",
+    "sentence": "Cerita lucu sekali. (A very funny story.)"
+  },
+  {
+    "indo": "Bodoh",
+    "en": "Stupid",
+    "sentence": "Keputusan yang bodoh. (A stupid decision.)"
+  },
+  {
+    "indo": "Pintar",
+    "en": "Smart",
+    "sentence": "Anak yang pintar. (A smart child.)"
+  },
+  {
+    "indo": "Tegak",
+    "en": "Upright",
+    "sentence": "Berdiri tegak. (Stand upright.)"
+  },
+  {
+    "indo": "Pemanas",
+    "en": "Heater",
+    "sentence": "Nyalakan pemanas itu. (Turn on that heater.)"
+  },
+  {
+    "indo": "Menghambat",
+    "en": "To inhibit",
+    "sentence": "Jangan menghambat kemajuan. (Don't inhibit progress.)"
+  },
+  {
+    "indo": "Penjara",
+    "en": "Prison",
+    "sentence": "Dia keluar dari penjara. (He got out of prison.)"
+  },
+  {
+    "indo": "Sempurna",
+    "en": "Perfect",
+    "sentence": "Ini hari yang sempurna. (This is a perfect day.)"
+  },
+  {
+    "indo": "Tahan",
+    "en": "To endure",
+    "sentence": "Kamu harus tahan. (You must endure.)"
+  },
+  {
+    "indo": "Pesan",
+    "en": "Message",
+    "sentence": "Saya punya pesan untukmu. (I have a message for you.)"
+  },
+  {
+    "indo": "Mengganggu",
+    "en": "To disturb",
+    "sentence": "Jangan mengganggu saya. (Don't disturb me.)"
+  },
+  {
+    "indo": "Berguna",
+    "en": "Useful",
+    "sentence": "Informasi ini sangat berguna. (This information is very useful.)"
+  },
+  {
+    "indo": "Pantas",
+    "en": "Proper",
+    "sentence": "Itu tidak pantas. (That is not proper.)"
+  },
+  {
+    "indo": "Kekhawatiran",
+    "en": "Worry",
+    "sentence": "Jangan ada kekhawatiran. (Don't have any worries.)"
+  },
+  {
+    "indo": "Kepala",
+    "en": "Head",
+    "sentence": "Kepala saya pusing. (My head is dizzy.)"
+  },
+  {
+    "indo": "Minum",
+    "en": "To drink",
+    "sentence": "Waktunya minum kopi. (Time to drink coffee.)"
+  },
+  {
+    "indo": "Tetap",
+    "en": "Stay / Still",
+    "sentence": "Tetaplah di sini. (Stay here.)"
+  },
+  {
+    "indo": "Berarti",
+    "en": "Meaning",
+    "sentence": "Apa yang berarti? (What does it mean?)"
+  },
+  {
+    "indo": "Secara",
+    "en": "Specifically",
+    "sentence": "Secara umum, ini bagus. (Generally, this is good.)"
+  },
+  {
+    "indo": "Pintu",
+    "en": "Door",
+    "sentence": "Tutup pintu itu. (Close that door.)"
+  },
+  {
+    "indo": "Hampir",
+    "en": "Almost",
+    "sentence": "Hampir sampai. (Almost there.)"
+  },
+  {
+    "indo": "Berjalan",
+    "en": "To walk",
+    "sentence": "Kita berjalan santai. (We walk casually.)"
+  },
+  {
+    "indo": "Diam",
+    "en": "Quiet",
+    "sentence": "Tolong diam sebentar. (Please be quiet for a moment.)"
+  },
+  {
+    "indo": "Sekitar",
+    "en": "Around",
+    "sentence": "Lihat di sekitar. (Look around.)"
+  },
+  {
+    "indo": "Buat",
+    "en": "Make",
+    "sentence": "Buat rencana baru. (Make a new plan.)"
+  },
+  {
+    "indo": "Kapan",
+    "en": "When",
+    "sentence": "Kapan kita bertemu? (When do we meet?)"
+  },
+  {
+    "indo": "Memberitahu",
+    "en": "To inform",
+    "sentence": "Tolong memberitahu saya. (Please inform me.)"
+  },
+  {
+    "indo": "Mohon",
+    "en": "Please",
+    "sentence": "Mohon bantuannya. (Please help.)"
+  },
+  {
+    "indo": "Cantik",
+    "en": "Beautiful",
+    "sentence": "Pemandangan cantik. (Beautiful scenery.)"
+  },
+  {
+    "indo": "Mudah",
+    "en": "Easy",
+    "sentence": "Itu sangat mudah. (That is very easy.)"
+  },
+  {
+    "indo": "Kawan",
+    "en": "Friend",
+    "sentence": "Dia kawan lama saya. (He is my old friend.)"
+  },
+  {
+    "indo": "Mendapatkan",
+    "en": "To get",
+    "sentence": "Kamu akan mendapatkan hadiah. (You will get a gift.)"
+  },
+  {
+    "indo": "Soal",
+    "en": "Problem / Matter",
+    "sentence": "Ini soal waktu. (This is a matter of time.)"
+  },
+  {
+    "indo": "Mata",
+    "en": "Eye",
+    "sentence": "Buka mata lebar. (Open your eyes wide.)"
+  },
+  {
+    "indo": "Berakhir",
+    "en": "To end",
+    "sentence": "Kisah ini berakhir. (This story ends.)"
+  },
+  {
+    "indo": "Hati",
+    "en": "Heart",
+    "sentence": "Jaga hatimu. (Take care of your heart.)"
+  },
+  {
+    "indo": "Jelas",
+    "en": "Clear",
+    "sentence": "Penjelasan yang jelas. (A clear explanation.)"
+  },
+  {
+    "indo": "Akhirnya",
+    "en": "Finally",
+    "sentence": "Akhirnya selesai. (Finally finished.)"
+  },
+  {
+    "indo": "Minggu",
+    "en": "Week",
+    "sentence": "Minggu ini sibuk. (This week is busy.)"
+  },
+  {
+    "indo": "Tim",
+    "en": "Team",
+    "sentence": "Kita satu tim. (We are one team.)"
+  },
+  {
+    "indo": "Indah",
+    "en": "Beautiful",
+    "sentence": "Hari yang indah. (A beautiful day.)"
+  },
+  {
+    "indo": "Bunuh",
+    "en": "To kill",
+    "sentence": "Jangan bunuh kecoa itu. (Don't kill that cockroach.)"
+  },
+  {
+    "indo": "Bangun",
+    "en": "To wake up",
+    "sentence": "Bangun pagi itu sehat. (Waking up early is healthy.)"
+  },
+  {
+    "indo": "Keras",
+    "en": "Hard / Loud",
+    "sentence": "Jangan bicara keras. (Don't speak loudly.)"
+  },
+  {
+    "indo": "Serius",
+    "en": "Serious",
+    "sentence": "Ini sangat serius. (This is very serious.)"
+  },
+  {
+    "indo": "Kemana",
+    "en": "Where to",
+    "sentence": "Mau kemana hari ini? (Where are you going today?)"
+  },
+  {
+    "indo": "Berubah",
+    "en": "To change",
+    "sentence": "Dunia terus berubah. (The world keeps changing.)"
+  },
+  {
+    "indo": "Berkata",
+    "en": "To say",
+    "sentence": "Apa yang dia berkata? (What did he say?)"
+  },
+  {
+    "indo": "Menyenangkan",
+    "en": "Fun",
+    "sentence": "Itu sangat menyenangkan. (That is very fun.)"
+  },
+  {
+    "indo": "Kosong",
+    "en": "Empty",
+    "sentence": "Gelas itu kosong. (That glass is empty.)"
+  },
+  {
+    "indo": "Belakang",
+    "en": "Back / Behind",
+    "sentence": "Lihat di belakang. (Look behind.)"
+  },
+  {
+    "indo": "Beri",
+    "en": "To give",
+    "sentence": "Beri dia kesempatan. (Give him a chance.)"
+  },
+  {
+    "indo": "Agar",
+    "en": "So that",
+    "sentence": "Belajar agar pintar. (Study so that you are smart.)"
+  },
+  {
+    "indo": "Beritahu",
+    "en": "Tell",
+    "sentence": "Beritahu saya nanti. (Tell me later.)"
+  },
+  {
+    "indo": "Kuat",
+    "en": "Strong",
+    "sentence": "Dia orang yang kuat. (He is a strong person.)"
+  },
+  {
+    "indo": "Lari",
+    "en": "To run",
+    "sentence": "Mari lari pagi. (Let's go for a morning run.)"
+  },
+  {
+    "indo": "Kata",
+    "en": "Word",
+    "sentence": "Tulis satu kata. (Write one word.)"
+  },
+  {
+    "indo": "Bertanya",
+    "en": "To ask",
+    "sentence": "Dia suka bertanya. (He likes to ask.)"
+  },
+  {
+    "indo": "Meminta",
+    "en": "To request",
+    "sentence": "Saya meminta bantuan. (I request help.)"
+  },
+  {
+    "indo": "Hilang",
+    "en": "Lost",
+    "sentence": "Dompet saya hilang. (My wallet is lost.)"
+  },
+  {
+    "indo": "Biar",
+    "en": "Let",
+    "sentence": "Biar saja. (Let it be.)"
+  },
+  {
+    "indo": "Makanan",
+    "en": "Food",
+    "sentence": "Makanan ini lezat. (This food is delicious.)"
+  },
+  {
+    "indo": "Menunggu",
+    "en": "To wait",
+    "sentence": "Tunggu sebentar. (Wait a moment.)"
+  },
+  {
+    "indo": "Ikut",
+    "en": "To follow",
+    "sentence": "Saya ikut kamu. (I follow you.)"
+  },
+  {
+    "indo": "Nanti",
+    "en": "Later",
+    "sentence": "Sampai nanti. (See you later.)"
+  },
+  {
+    "indo": "Tua",
+    "en": "Old",
+    "sentence": "Orang tua saya baik. (My parents are kind.)"
+  },
+  {
+    "indo": "Paling",
+    "en": "Most",
+    "sentence": "Ini yang paling enak. (This is the most delicious.)"
+  },
+  {
+    "indo": "Tenang",
+    "en": "Calm",
+    "sentence": "Tetaplah tenang. (Stay calm.)"
+  },
+  {
+    "indo": "Jauh",
+    "en": "Far",
+    "sentence": "Jangan terlalu jauh. (Don't go too far.)"
+  },
+  {
+    "indo": "Masa",
+    "en": "Time / Era",
+    "sentence": "Masa depan cerah. (The future is bright.)"
+  },
+  {
+    "indo": "Menit",
+    "en": "Minute",
+    "sentence": "Sepuluh menit lagi. (Ten more minutes.)"
+  },
+  {
+    "indo": "Bahkan",
+    "en": "Even",
+    "sentence": "Bahkan dia tidak tahu. (Even he doesn't know.)"
+  },
+  {
+    "indo": "Percaya",
+    "en": "To believe",
+    "sentence": "Saya percaya kamu. (I believe you.)"
+  },
+  {
+    "indo": "Bertemu",
+    "en": "To meet",
+    "sentence": "Senang bertemu Anda. (Nice to meet you.)"
+  },
+  {
+    "indo": "Bekerja",
+    "en": "To work",
+    "sentence": "Dia bekerja giat. (He works hard.)"
+  },
+  {
+    "indo": "Terlalu",
+    "en": "Too",
+    "sentence": "Terlalu banyak. (Too much.)"
+  },
+  {
+    "indo": "Makan",
+    "en": "To eat",
+    "sentence": "Ayo makan siang. (Let's eat lunch.)"
+  },
+  {
+    "indo": "Wanita",
+    "en": "Woman",
+    "sentence": "Wanita itu cantik. (That woman is beautiful.)"
+  },
+  {
+    "indo": "Mari",
+    "en": "Let's",
+    "sentence": "Mari kita pergi. (Let's go.)"
+  },
+  {
+    "indo": "Kali",
+    "en": "Time / River",
+    "sentence": "Satu kali lagi. (One more time.)"
+  },
+  {
+    "indo": "Setiap",
+    "en": "Every",
+    "sentence": "Setiap hari. (Every day.)"
+  },
+  {
+    "indo": "Sebagai",
+    "en": "As",
+    "sentence": "Sebagai teman. (As a friend.)"
+  },
+  {
+    "indo": "Oleh",
+    "en": "By",
+    "sentence": "Ditulis oleh dia. (Written by him.)"
+  },
+  {
+    "indo": "Berpikir",
+    "en": "To think",
+    "sentence": "Saya sedang berpikir. (I am thinking.)"
+  },
+  {
+    "indo": "Berhenti",
+    "en": "To stop",
+    "sentence": "Berhenti di sini. (Stop here.)"
+  },
+  {
+    "indo": "Yakin",
+    "en": "Sure",
+    "sentence": "Saya yakin itu. (I am sure of that.)"
+  },
+  {
+    "indo": "Luar",
+    "en": "Outside",
+    "sentence": "Di luar hujan. (It's raining outside.)"
+  },
+  {
+    "indo": "Tebak",
+    "en": "To guess",
+    "sentence": "Coba tebak siapa ini. (Try to guess who this is.)"
+  },
+  {
+    "indo": "Saksi",
+    "en": "Witness",
+    "sentence": "Dia adalah saksi mata. (He is an eyewitness.)"
+  },
+  {
+    "indo": "Cahaya",
+    "en": "Light",
+    "sentence": "Cahaya lilin itu redup. (The candle light is dim.)"
+  },
+  {
+    "indo": "Karya",
+    "en": "Creation / Work",
+    "sentence": "Ini adalah karya seni. (This is a work of art.)"
+  },
+  {
+    "indo": "Sadar",
+    "en": "Aware / Conscious",
+    "sentence": "Dia sudah sadar sekarang. (He is conscious now.)"
+  },
+  {
+    "indo": "Mandi",
+    "en": "To bathe",
+    "sentence": "Saatnya mandi pagi. (Time for a morning shower.)"
+  },
+  {
+    "indo": "Janji",
+    "en": "Promise",
+    "sentence": "Pegang janji itu. (Keep that promise.)"
+  },
+  {
+    "indo": "Kaya",
+    "en": "Rich",
+    "sentence": "Dia orang yang kaya. (He is a rich person.)"
+  },
+  {
+    "indo": "Miskin",
+    "en": "Poor",
+    "sentence": "Jangan meremehkan orang miskin. (Don't underestimate poor people.)"
+  },
+  {
+    "indo": "Lembut",
+    "en": "Soft",
+    "sentence": "Suaranya sangat lembut. (Her voice is very soft.)"
+  },
+  {
+    "indo": "Terang",
+    "en": "Bright",
+    "sentence": "Lampu ini sangat terang. (This lamp is very bright.)"
+  },
+  {
+    "indo": "Kering",
+    "en": "Dry",
+    "sentence": "Cuaca kering hari ini. (The weather is dry today.)"
+  },
+  {
+    "indo": "Siap",
+    "en": "Ready",
+    "sentence": "Apakah kamu sudah siap? (Are you ready?)"
+  },
+  {
+    "indo": "Sama",
+    "en": "Same",
+    "sentence": "Kita punya tujuan sama. (We have the same goal.)"
+  },
+  {
+    "indo": "Beda",
+    "en": "Different",
+    "sentence": "Itu sangat berbeda. (That is very different.)"
+  },
+  {
+    "indo": "Membutuhkan",
+    "en": "To need",
+    "sentence": "Kita membutuhkan bantuanmu. (We need your help.)"
+  },
+  {
+    "indo": "Menyampaikan",
+    "en": "To convey",
+    "sentence": "Tolong sampaikan pesan ini. (Please convey this message.)"
+  },
+  {
+    "indo": "Kejutan",
+    "en": "Surprise",
+    "sentence": "Itu adalah kejutan besar. (That was a big surprise.)"
+  },
+  {
+    "indo": "Tanggungjawab",
+    "en": "Responsibility",
+    "sentence": "Ini tanggungjawab besar. (This is a big responsibility.)"
+  },
+  {
+    "indo": "Pelayanan",
+    "en": "Service",
+    "sentence": "Pelayanan di sini bagus. (The service here is good.)"
+  },
+  {
+    "indo": "Kendaraan",
+    "en": "Vehicle",
+    "sentence": "Pilih kendaraan yang tepat. (Choose the right vehicle.)"
+  },
+  {
+    "indo": "Tekanan",
+    "en": "Pressure",
+    "sentence": "Jangan merasa dalam tekanan. (Don't feel under pressure.)"
+  },
+  {
+    "indo": "Semangat",
+    "en": "Spirit / Enthusiasm",
+    "sentence": "Tetap semangat belajar! (Keep up the spirit of learning!)"
+  },
+  {
+    "indo": "Pemeriksaan",
+    "en": "Examination",
+    "sentence": "Pemeriksaan kesehatan rutin. (Routine health examination.)"
+  },
+  {
+    "indo": "Perkakas",
+    "en": "Tools",
+    "sentence": "Simpan perkakas di kotak. (Keep the tools in the box.)"
+  },
+  {
+    "indo": "Terjangkau",
+    "en": "Affordable",
+    "sentence": "Harga barang sangat terjangkau. (The price is very affordable.)"
+  },
+  {
+    "indo": "Keahlian",
+    "en": "Expertise",
+    "sentence": "Dia punya keahlian tinggi. (He has high expertise.)"
+  },
+  {
+    "indo": "Melampaui",
+    "en": "To exceed",
+    "sentence": "Hasilnya melampaui harapan. (The results exceeded expectations.)"
+  },
+  {
+    "indo": "Keterangan",
+    "en": "Explanation/Detail",
+    "sentence": "Berikan keterangan lebih jelas. (Give a clearer explanation.)"
+  },
+  {
+    "indo": "Memperbaiki",
+    "en": "To fix/repair",
+    "sentence": "Mari memperbaiki kesalahan itu. (Let's fix that mistake.)"
+  },
+  {
+    "indo": "Pencapaian",
+    "en": "Achievement",
+    "sentence": "Pencapaian yang luar biasa. (An extraordinary achievement.)"
+  },
+  {
+    "indo": "Mendukung",
+    "en": "To support",
+    "sentence": "Kami mendukung ide Anda. (We support your idea.)"
+  },
+  {
+    "indo": "Kehadiran",
+    "en": "Presence",
+    "sentence": "Kehadiranmu sangat berarti. (Your presence is very meaningful.)"
+  },
+  {
+    "indo": "Menghadapi",
+    "en": "To face",
+    "sentence": "Kita harus menghadapi masalah. (We must face the problem.)"
+  },
+  {
+    "indo": "Penyelidikan",
+    "en": "Investigation",
+    "sentence": "Penyelidikan masih berlangsung. (The investigation is ongoing.)"
+  },
+  {
+    "indo": "Menentukan",
+    "en": "To determine",
+    "sentence": "Tentukan tujuanmu sekarang. (Determine your goals now.)"
+  },
+  {
+    "indo": "Membangun",
+    "en": "To build",
+    "sentence": "Kita membangun rumah baru. (We are building a new house.)"
+  },
+  {
+    "indo": "Terlibat",
+    "en": "Involved",
+    "sentence": "Dia terlibat dalam proyek. (He is involved in the project.)"
+  },
+  {
+    "indo": "Menggunakan",
+    "en": "To use",
+    "sentence": "Gunakan alat dengan benar. (Use the tool correctly.)"
+  },
+  {
+    "indo": "Pelanggaran",
+    "en": "Violation",
+    "sentence": "Ini adalah pelanggaran aturan. (This is a rule violation.)"
+  },
+  {
+    "indo": "Kualitas",
+    "en": "Quality",
+    "sentence": "Kualitasnya sangat bagus. (The quality is very good.)"
+  },
+  {
+    "indo": "Kuantitas",
+    "en": "Quantity",
+    "sentence": "Kuantitas tidak selalu penting. (Quantity is not always important.)"
+  },
+  {
+    "indo": "Peringatan",
+    "en": "Warning",
+    "sentence": "Itu hanyalah sebuah peringatan. (That was just a warning.)"
+  },
+  {
+    "indo": "Perasaan",
+    "en": "Feeling",
+    "sentence": "Perasaan saya tidak enak. (My feeling is not good.)"
+  },
+  {
+    "indo": "Pendapat",
+    "en": "Opinion",
+    "sentence": "Apa pendapatmu soal itu? (What is your opinion about that?)"
+  },
+  {
+    "indo": "Kritik",
+    "en": "Criticism",
+    "sentence": "Terima kritik dengan lapang dada. (Accept criticism with an open heart.)"
+  },
+  {
+    "indo": "Kesibukan",
+    "en": "Busyness",
+    "sentence": "Kesibukan kantor meningkat. (Office busyness is increasing.)"
+  },
+  {
+    "indo": "Ketenangan",
+    "en": "Calmness",
+    "sentence": "Saya butuh ketenangan. (I need calmness.)"
+  },
+  {
+    "indo": "Tingkat",
+    "en": "Level",
+    "sentence": "Tingkat pendidikan meningkat. (Education level is increasing.)"
+  },
+  {
+    "indo": "Kerja keras",
+    "en": "Hard work",
+    "sentence": "Kerja keras tak mengkhianati. (Hard work doesn't betray.)"
+  },
+  {
+    "indo": "Pagi",
+    "en": "Morning",
+    "sentence": "Saya bangun pagi. (I wake up in the morning.)"
+  },
+  {
+    "indo": "Siang",
+    "en": "Afternoon",
+    "sentence": "Kita makan siang bersama. (We have lunch together.)"
+  },
+  {
+    "indo": "Sore",
+    "en": "Late afternoon",
+    "sentence": "Saya pulang sore. (I go home in the late afternoon.)"
+  },
+  {
+    "indo": "Jam",
+    "en": "Hour / Clock",
+    "sentence": "Jam berapa sekarang? (What time is it now?)"
+  },
+  {
+    "indo": "Detik",
+    "en": "Second",
+    "sentence": "Tunggu sebentar, hanya beberapa detik. (Wait a moment, only a few seconds.)"
+  },
+  {
+    "indo": "Tanggal",
+    "en": "Date",
+    "sentence": "Tanggal berapa hari ini? (What is the date today?)"
+  },
+  {
+    "indo": "Dapur",
+    "en": "Kitchen",
+    "sentence": "Ibu memasak di dapur. (Mother cooks in the kitchen.)"
+  },
+  {
+    "indo": "Kamar mandi",
+    "en": "Bathroom",
+    "sentence": "Kamar mandi ada di belakang. (The bathroom is at the back.)"
+  },
+  {
+    "indo": "Kasur",
+    "en": "Mattress / Bed",
+    "sentence": "Kasur ini nyaman. (This bed is comfortable.)"
+  },
+  {
+    "indo": "Bantal",
+    "en": "Pillow",
+    "sentence": "Saya butuh bantal baru. (I need a new pillow.)"
+  },
+  {
+    "indo": "Selimut",
+    "en": "Blanket",
+    "sentence": "Ambil selimut itu. (Take that blanket.)"
+  },
+  {
+    "indo": "Lampu",
+    "en": "Lamp",
+    "sentence": "Lampu kamar menyala. (The bedroom lamp is on.)"
+  },
+  {
+    "indo": "Buku",
+    "en": "Book",
+    "sentence": "Saya membaca buku. (I read a book.)"
+  },
+  {
+    "indo": "Pulpen",
+    "en": "Pen",
+    "sentence": "Saya menulis dengan pulpen. (I write with a pen.)"
+  },
+  {
+    "indo": "Pensil",
+    "en": "Pencil",
+    "sentence": "Pensil itu patah. (That pencil is broken.)"
+  },
+  {
+    "indo": "Kertas",
+    "en": "Paper",
+    "sentence": "Tolong ambil kertas. (Please take some paper.)"
+  },
+  {
+    "indo": "Surat",
+    "en": "Letter",
+    "sentence": "Saya menerima surat. (I received a letter.)"
+  },
+  {
+    "indo": "Ponsel",
+    "en": "Mobile phone",
+    "sentence": "Ponsel saya mati. (My phone is dead.)"
+  },
+  {
+    "indo": "Telepon",
+    "en": "Telephone",
+    "sentence": "Saya akan menelepon nanti. (I will call later.)"
+  },
+  {
+    "indo": "Kamera",
+    "en": "Camera",
+    "sentence": "Kamera ini mahal. (This camera is expensive.)"
+  },
+  {
+    "indo": "Foto",
+    "en": "Photo",
+    "sentence": "Foto itu sangat bagus. (That photo is very nice.)"
+  },
+  {
+    "indo": "Video",
+    "en": "Video",
+    "sentence": "Saya menonton video. (I watch a video.)"
+  },
+  {
+    "indo": "Internet",
+    "en": "Internet",
+    "sentence": "Internet di sini cepat. (The internet here is fast.)"
+  },
+  {
+    "indo": "Sinyal",
+    "en": "Signal",
+    "sentence": "Sinyal ponsel lemah. (The phone signal is weak.)"
+  },
+  {
+    "indo": "Kalimat",
+    "en": "Sentence",
+    "sentence": "Kalimat itu panjang. (That sentence is long.)"
+  },
+  {
+    "indo": "Bahasa",
+    "en": "Language",
+    "sentence": "Saya belajar bahasa Indonesia. (I study Indonesian.)"
+  },
+  {
+    "indo": "Suara",
+    "en": "Sound / Voice",
+    "sentence": "Suaramu jelas. (Your voice is clear.)"
+  },
+  {
+    "indo": "Musik",
+    "en": "Music",
+    "sentence": "Saya suka musik. (I like music.)"
+  },
+  {
+    "indo": "Lagu",
+    "en": "Song",
+    "sentence": "Lagu ini enak didengar. (This song is nice to listen to.)"
+  },
+  {
+    "indo": "Film",
+    "en": "Movie",
+    "sentence": "Film itu menarik. (That movie is interesting.)"
+  },
+  {
+    "indo": "Berita",
+    "en": "News",
+    "sentence": "Saya membaca berita. (I read the news.)"
+  },
+  {
+    "indo": "Cerita",
+    "en": "Story",
+    "sentence": "Ceritanya lucu. (The story is funny.)"
+  },
+  {
+    "indo": "Pertanyaan",
+    "en": "Question",
+    "sentence": "Saya punya pertanyaan. (I have a question.)"
+  },
+  {
+    "indo": "Jawaban",
+    "en": "Answer",
+    "sentence": "Jawaban itu benar. (That answer is correct.)"
+  },
+  {
+    "indo": "Contoh",
+    "en": "Example",
+    "sentence": "Berikan satu contoh. (Give one example.)"
+  },
+  {
+    "indo": "Cara",
+    "en": "Way / Method",
+    "sentence": "Bagaimana caranya? (How is the way?)"
+  },
+  {
+    "indo": "Jadwal",
+    "en": "Schedule",
+    "sentence": "Jadwal saya penuh. (My schedule is full.)"
+  },
+  {
+    "indo": "Acara",
+    "en": "Event",
+    "sentence": "Acara dimulai malam ini. (The event starts tonight.)"
+  },
+  {
+    "indo": "Undangan",
+    "en": "Invitation",
+    "sentence": "Saya menerima undangan. (I received an invitation.)"
+  },
+  {
+    "indo": "Tamu",
+    "en": "Guest",
+    "sentence": "Tamu sudah datang. (The guest has arrived.)"
+  },
+  {
+    "indo": "Teman",
+    "en": "Friend",
+    "sentence": "Dia teman baik saya. (He is my good friend.)"
+  },
+  {
+    "indo": "Pacar",
+    "en": "Boyfriend / Girlfriend",
+    "sentence": "Pacar saya tinggal di Bali. (My partner lives in Bali.)"
+  },
+  {
+    "indo": "Tetangga",
+    "en": "Neighbor",
+    "sentence": "Tetangga saya ramah. (My neighbor is friendly.)"
+  },
+  {
+    "indo": "Guru",
+    "en": "Teacher",
+    "sentence": "Guru menjelaskan pelajaran. (The teacher explains the lesson.)"
+  },
+  {
+    "indo": "Dosen",
+    "en": "Lecturer",
+    "sentence": "Dosen itu sangat pintar. (That lecturer is very smart.)"
+  },
+  {
+    "indo": "Mahasiswa",
+    "en": "University student",
+    "sentence": "Mahasiswa belajar di kampus. (Students study on campus.)"
+  },
+  {
+    "indo": "Kampus",
+    "en": "Campus",
+    "sentence": "Kampus saya besar. (My campus is big.)"
+  },
+  {
+    "indo": "Pelajaran",
+    "en": "Lesson",
+    "sentence": "Pelajaran hari ini sulit. (Today’s lesson is difficult.)"
+  },
+  {
+    "indo": "Ujian",
+    "en": "Exam",
+    "sentence": "Ujian dimulai besok. (The exam starts tomorrow.)"
+  },
+  {
+    "indo": "Nilai",
+    "en": "Grade / Value",
+    "sentence": "Nilai saya bagus. (My grade is good.)"
+  },
+  {
+    "indo": "Toko",
+    "en": "Shop",
+    "sentence": "Saya pergi ke toko. (I go to the shop.)"
+  },
+  {
+    "indo": "Pasar",
+    "en": "Market",
+    "sentence": "Ibu membeli sayur di pasar. (Mother buys vegetables at the market.)"
+  },
+  {
+    "indo": "Restoran",
+    "en": "Restaurant",
+    "sentence": "Restoran ini ramai. (This restaurant is crowded.)"
+  },
+  {
+    "indo": "Warung",
+    "en": "Small local eatery",
+    "sentence": "Saya makan di warung. (I eat at a local eatery.)"
+  },
+  {
+    "indo": "Menu",
+    "en": "Menu",
+    "sentence": "Lihat menu dulu. (Look at the menu first.)"
+  },
+  {
+    "indo": "Minuman",
+    "en": "Drink",
+    "sentence": "Minuman itu dingin. (That drink is cold.)"
+  },
+  {
+    "indo": "Nasi",
+    "en": "Rice",
+    "sentence": "Saya makan nasi. (I eat rice.)"
+  },
+  {
+    "indo": "Mie",
+    "en": "Noodles",
+    "sentence": "Saya pesan mie goreng. (I ordered fried noodles.)"
+  },
+  {
+    "indo": "Ayam",
+    "en": "Chicken",
+    "sentence": "Ayam bakar itu enak. (The grilled chicken is tasty.)"
+  },
+  {
+    "indo": "Ikan",
+    "en": "Fish",
+    "sentence": "Ikan ini segar. (This fish is fresh.)"
+  },
+  {
+    "indo": "Daging",
+    "en": "Meat",
+    "sentence": "Saya tidak makan daging. (I do not eat meat.)"
+  },
+  {
+    "indo": "Telur",
+    "en": "Egg",
+    "sentence": "Saya makan telur pagi ini. (I ate an egg this morning.)"
+  },
+  {
+    "indo": "Sayur",
+    "en": "Vegetable",
+    "sentence": "Makan sayur setiap hari. (Eat vegetables every day.)"
+  },
+  {
+    "indo": "Buah",
+    "en": "Fruit",
+    "sentence": "Buah mangga manis. (The mango is sweet.)"
+  },
+  {
+    "indo": "Garam",
+    "en": "Salt",
+    "sentence": "Jangan terlalu banyak garam. (Do not use too much salt.)"
+  },
+  {
+    "indo": "Gula",
+    "en": "Sugar",
+    "sentence": "Kopi ini tanpa gula. (This coffee is without sugar.)"
+  },
+  {
+    "indo": "Pedas",
+    "en": "Spicy",
+    "sentence": "Makanan ini terlalu pedas. (This food is too spicy.)"
+  },
+  {
+    "indo": "Manis",
+    "en": "Sweet",
+    "sentence": "Teh ini manis. (This tea is sweet.)"
+  },
+  {
+    "indo": "Asin",
+    "en": "Salty",
+    "sentence": "Sup ini asin. (This soup is salty.)"
+  },
+  {
+    "indo": "Pahit",
+    "en": "Bitter",
+    "sentence": "Obat itu pahit. (That medicine is bitter.)"
+  },
+  {
+    "indo": "Segar",
+    "en": "Fresh",
+    "sentence": "Air kelapa ini segar. (This coconut water is fresh.)"
+  },
+  {
+    "indo": "Lapar",
+    "en": "Hungry",
+    "sentence": "Saya lapar sekali. (I am very hungry.)"
+  },
+  {
+    "indo": "Haus",
+    "en": "Thirsty",
+    "sentence": "Saya haus. (I am thirsty.)"
+  },
+  {
+    "indo": "Kenyang",
+    "en": "Full",
+    "sentence": "Saya sudah kenyang. (I am already full.)"
+  },
+  {
+    "indo": "Masak",
+    "en": "To cook",
+    "sentence": "Saya masak makan malam. (I cook dinner.)"
+  },
+  {
+    "indo": "Tidur",
+    "en": "To sleep",
+    "sentence": "Saya mau tidur. (I want to sleep.)"
+  },
+  {
+    "indo": "Bersih",
+    "en": "Clean",
+    "sentence": "Kamar ini bersih. (This room is clean.)"
+  },
+  {
+    "indo": "Kotor",
+    "en": "Dirty",
+    "sentence": "Sepatu saya kotor. (My shoes are dirty.)"
+  },
+  {
+    "indo": "Cepat",
+    "en": "Fast",
+    "sentence": "Dia berjalan cepat. (He walks fast.)"
+  },
+  {
+    "indo": "Pelan",
+    "en": "Slow",
+    "sentence": "Bicara pelan saja. (Just speak slowly.)"
+  },
+  {
+    "indo": "Panas",
+    "en": "Hot",
+    "sentence": "Cuaca hari ini panas. (The weather is hot today.)"
+  },
+  {
+    "indo": "Dingin",
+    "en": "Cold",
+    "sentence": "Air ini dingin. (This water is cold.)"
+  },
+  {
+    "indo": "Gelap",
+    "en": "Dark",
+    "sentence": "Kamar itu gelap. (That room is dark.)"
+  },
+  {
+    "indo": "Dekat",
+    "en": "Near",
+    "sentence": "Rumah saya dekat. (My house is near.)"
+  },
+  {
+    "indo": "Mahal",
+    "en": "Expensive",
+    "sentence": "Harga ini mahal. (This price is expensive.)"
+  },
+  {
+    "indo": "Murah",
+    "en": "Cheap",
+    "sentence": "Barang ini murah. (This item is cheap.)"
+  },
+  {
+    "indo": "Sulit",
+    "en": "Difficult",
+    "sentence": "Soal ini sulit. (This question is difficult.)"
+  },
+  {
+    "indo": "Lemah",
+    "en": "Weak",
+    "sentence": "Sinyalnya lemah. (The signal is weak.)"
+  },
+  {
+    "indo": "Rajin",
+    "en": "Diligent",
+    "sentence": "Murid itu rajin. (That student is diligent.)"
+  },
+  {
+    "indo": "Malas",
+    "en": "Lazy",
+    "sentence": "Jangan malas belajar. (Do not be lazy to study.)"
+  },
+  {
+    "indo": "Sabar",
+    "en": "Patient",
+    "sentence": "Kamu harus sabar. (You must be patient.)"
+  },
+  {
+    "indo": "Marah",
+    "en": "Angry",
+    "sentence": "Dia sedang marah. (He is angry.)"
+  },
+  {
+    "indo": "Sedih",
+    "en": "Sad",
+    "sentence": "Saya merasa sedih. (I feel sad.)"
+  },
+  {
+    "indo": "Senang",
+    "en": "Happy",
+    "sentence": "Saya senang bertemu kamu. (I am happy to meet you.)"
+  },
+  {
+    "indo": "Takut",
+    "en": "Afraid",
+    "sentence": "Saya takut gelap. (I am afraid of the dark.)"
+  },
+  {
+    "indo": "Ramai",
+    "en": "Crowded / Lively",
+    "sentence": "Jalan ini ramai. (This street is crowded.)"
+  },
+  {
+    "indo": "Sepi",
+    "en": "Quiet",
+    "sentence": "Pantai ini sepi. (This beach is quiet.)"
+  },
+  {
+    "indo": "Jelek",
+    "en": "Bad / Ugly",
+    "sentence": "Cuacanya jelek. (The weather is bad.)"
+  },
+  {
+    "indo": "Ganteng",
+    "en": "Handsome",
+    "sentence": "Aktor itu ganteng. (That actor is handsome.)"
+  },
+  {
+    "indo": "Rapi",
+    "en": "Neat",
+    "sentence": "Kemejamu rapi. (Your shirt is neat.)"
+  },
+  {
+    "indo": "Berantakan",
+    "en": "Messy",
+    "sentence": "Kamar saya berantakan. (My room is messy.)"
+  },
+  {
+    "indo": "Sopan",
+    "en": "Polite",
+    "sentence": "Dia sangat sopan. (He is very polite.)"
+  },
+  {
+    "indo": "Kasar",
+    "en": "Rude / Rough",
+    "sentence": "Jangan bicara kasar. (Do not speak rudely.)"
+  },
+  {
+    "indo": "Jujur",
+    "en": "Honest",
+    "sentence": "Saya ingin jawaban jujur. (I want an honest answer.)"
+  },
+  {
+    "indo": "Bohong",
+    "en": "To lie / Lie",
+    "sentence": "Jangan bohong. (Do not lie.)"
+  },
+  {
+    "indo": "Ragu",
+    "en": "Doubtful",
+    "sentence": "Saya masih ragu. (I am still doubtful.)"
+  },
+  {
+    "indo": "Setuju",
+    "en": "Agree",
+    "sentence": "Saya setuju denganmu. (I agree with you.)"
+  },
+  {
+    "indo": "Memilih",
+    "en": "To choose",
+    "sentence": "Saya memilih yang ini. (I choose this one.)"
+  },
+  {
+    "indo": "Membeli",
+    "en": "To buy",
+    "sentence": "Saya membeli kopi. (I buy coffee.)"
+  },
+  {
+    "indo": "Menjual",
+    "en": "To sell",
+    "sentence": "Dia menjual mobil. (He sells a car.)"
+  },
+  {
+    "indo": "Membayar",
+    "en": "To pay",
+    "sentence": "Saya membayar tagihan. (I pay the bill.)"
+  },
+  {
+    "indo": "Membuka",
+    "en": "To open",
+    "sentence": "Tolong buka pintu. (Please open the door.)"
+  },
+  {
+    "indo": "Menutup",
+    "en": "To close",
+    "sentence": "Tolong tutup jendela. (Please close the window.)"
+  },
+  {
+    "indo": "Membawa",
+    "en": "To bring",
+    "sentence": "Jangan lupa membawa paspor. (Do not forget to bring your passport.)"
+  },
+  {
+    "indo": "Mengambil",
+    "en": "To take",
+    "sentence": "Saya mengambil tas. (I take the bag.)"
+  },
+  {
+    "indo": "Memberi",
+    "en": "To give",
+    "sentence": "Dia memberi saya hadiah. (He gives me a gift.)"
+  },
+  {
+    "indo": "Mencari",
+    "en": "To search",
+    "sentence": "Saya mencari alamat. (I search for the address.)"
+  },
+  {
+    "indo": "Membaca",
+    "en": "To read",
+    "sentence": "Saya membaca buku. (I read a book.)"
+  },
+  {
+    "indo": "Menulis",
+    "en": "To write",
+    "sentence": "Saya menulis catatan. (I write notes.)"
+  },
+  {
+    "indo": "Belajar",
+    "en": "To study",
+    "sentence": "Saya belajar bahasa Indonesia. (I study Indonesian.)"
+  },
+  {
+    "indo": "Mengajar",
+    "en": "To teach",
+    "sentence": "Dia mengajar matematika. (He teaches mathematics.)"
+  },
+  {
+    "indo": "Bermain",
+    "en": "To play",
+    "sentence": "Anak-anak bermain di luar. (Children play outside.)"
+  },
+  {
+    "indo": "Berlari",
+    "en": "To run",
+    "sentence": "Dia berlari pagi. (He runs in the morning.)"
+  },
+  {
+    "indo": "Berenang",
+    "en": "To swim",
+    "sentence": "Kami berenang di kolam. (We swim in the pool.)"
+  },
+  {
+    "indo": "Naik",
+    "en": "To go up / Ride",
+    "sentence": "Saya naik motor. (I ride a motorbike.)"
+  },
+  {
+    "indo": "Turun",
+    "en": "To go down",
+    "sentence": "Harga mulai turun. (The price starts to go down.)"
+  },
+  {
+    "indo": "Masuk",
+    "en": "To enter",
+    "sentence": "Silakan masuk. (Please come in.)"
+  },
+  {
+    "indo": "Pulang",
+    "en": "To go home",
+    "sentence": "Saya pulang sekarang. (I am going home now.)"
+  },
+  {
+    "indo": "Datang",
+    "en": "To come",
+    "sentence": "Dia akan datang besok. (He will come tomorrow.)"
+  },
+  {
+    "indo": "Tiba",
+    "en": "To arrive",
+    "sentence": "Kami tiba malam hari. (We arrive at night.)"
+  },
+  {
+    "indo": "Berangkat",
+    "en": "To depart",
+    "sentence": "Saya berangkat pagi. (I leave in the morning.)"
+  },
+  {
+    "indo": "Mengemudi",
+    "en": "To drive",
+    "sentence": "Dia mengemudi pelan. (He drives slowly.)"
+  },
+  {
+    "indo": "Motor",
+    "en": "Motorbike",
+    "sentence": "Saya naik motor ke kantor. (I ride a motorbike to the office.)"
+  },
+  {
+    "indo": "Mobil",
+    "en": "Car",
+    "sentence": "Mobil itu baru. (That car is new.)"
+  },
+  {
+    "indo": "Sepeda",
+    "en": "Bicycle",
+    "sentence": "Saya punya sepeda. (I have a bicycle.)"
+  },
+  {
+    "indo": "Bus",
+    "en": "Bus",
+    "sentence": "Kami naik bus. (We take the bus.)"
+  },
+  {
+    "indo": "Kereta",
+    "en": "Train",
+    "sentence": "Kereta datang tepat waktu. (The train arrives on time.)"
+  },
+  {
+    "indo": "Kapal",
+    "en": "Ship / Boat",
+    "sentence": "Kapal berangkat sore. (The boat leaves in the late afternoon.)"
+  },
+  {
+    "indo": "Pelabuhan",
+    "en": "Harbor",
+    "sentence": "Pelabuhan itu ramai. (The harbor is busy.)"
+  },
+  {
+    "indo": "Stasiun",
+    "en": "Station",
+    "sentence": "Saya menunggu di stasiun. (I wait at the station.)"
+  },
+  {
+    "indo": "Alamat",
+    "en": "Address",
+    "sentence": "Apa alamat rumahmu? (What is your home address?)"
+  },
+  {
+    "indo": "Peta",
+    "en": "Map",
+    "sentence": "Lihat peta ini. (Look at this map.)"
+  },
+  {
+    "indo": "Kiri",
+    "en": "Left",
+    "sentence": "Belok kiri di depan. (Turn left ahead.)"
+  },
+  {
+    "indo": "Kanan",
+    "en": "Right",
+    "sentence": "Belok kanan setelah toko. (Turn right after the shop.)"
+  },
+  {
+    "indo": "Depan",
+    "en": "Front",
+    "sentence": "Saya menunggu di depan. (I wait in front.)"
+  },
+  {
+    "indo": "Atas",
+    "en": "Above / Upstairs",
+    "sentence": "Tas ada di atas meja. (The bag is on the table.)"
+  },
+  {
+    "indo": "Bawah",
+    "en": "Below / Downstairs",
+    "sentence": "Kucing ada di bawah kursi. (The cat is under the chair.)"
+  },
+  {
+    "indo": "Sebelah",
+    "en": "Beside",
+    "sentence": "Toko ada di sebelah bank. (The shop is beside the bank.)"
+  },
+  {
+    "indo": "Antara",
+    "en": "Between",
+    "sentence": "Rumahnya antara dua toko. (The house is between two shops.)"
+  },
+  {
+    "indo": "Selama",
+    "en": "During / For",
+    "sentence": "Saya tinggal di sini selama sebulan. (I stay here for a month.)"
+  },
+  {
+    "indo": "Sebelum",
+    "en": "Before",
+    "sentence": "Cuci tangan sebelum makan. (Wash your hands before eating.)"
+  },
+  {
+    "indo": "Sesudah",
+    "en": "After",
+    "sentence": "Saya mandi sesudah olahraga. (I shower after exercising.)"
+  },
+  {
+    "indo": "Ketika",
+    "en": "When",
+    "sentence": "Saya tidur ketika hujan. (I slept when it rained.)"
+  },
+  {
+    "indo": "Sambil",
+    "en": "While",
+    "sentence": "Saya makan sambil menonton. (I eat while watching.)"
+  },
+  {
+    "indo": "Tanpa",
+    "en": "Without",
+    "sentence": "Saya minum kopi tanpa gula. (I drink coffee without sugar.)"
+  },
+  {
+    "indo": "Dengan",
+    "en": "With",
+    "sentence": "Saya pergi dengan teman. (I go with a friend.)"
+  },
+  {
+    "indo": "Untuk",
+    "en": "For",
+    "sentence": "Ini untuk kamu. (This is for you.)"
+  },
+  {
+    "indo": "Dari",
+    "en": "From",
+    "sentence": "Saya dari Belanda. (I am from the Netherlands.)"
+  },
+  {
+    "indo": "Kepada",
+    "en": "To",
+    "sentence": "Saya menulis surat kepada ibu. (I write a letter to mother.)"
+  },
+  {
+    "indo": "Seperti",
+    "en": "Like",
+    "sentence": "Dia cepat seperti angin. (He is fast like the wind.)"
+  },
+  {
+    "indo": "Meskipun",
+    "en": "Although",
+    "sentence": "Meskipun hujan, saya pergi. (Although it rains, I go.)"
+  },
+  {
+    "indo": "Namun",
+    "en": "However",
+    "sentence": "Saya lelah, namun tetap bekerja. (I am tired, however I keep working.)"
+  },
+  {
+    "indo": "Selain",
+    "en": "Besides",
+    "sentence": "Selain kopi, saya suka teh. (Besides coffee, I like tea.)"
+  },
+  {
+    "indo": "Kira-kira",
+    "en": "Approximately",
+    "sentence": "Kira-kira jam dua. (Approximately two o’clock.)"
+  },
+  {
+    "indo": "Biasanya",
+    "en": "Usually",
+    "sentence": "Biasanya saya bangun pagi. (Usually I wake up early.)"
+  },
+  {
+    "indo": "Kadang-kadang",
+    "en": "Sometimes",
+    "sentence": "Kadang-kadang saya lupa. (Sometimes I forget.)"
+  },
+  {
+    "indo": "Jarang",
+    "en": "Rarely",
+    "sentence": "Saya jarang minum soda. (I rarely drink soda.)"
+  },
+  {
+    "indo": "Sering",
+    "en": "Often",
+    "sentence": "Dia sering datang ke sini. (He often comes here.)"
+  },
+  {
+    "indo": "Cepat-cepat",
+    "en": "Quickly",
+    "sentence": "Dia pergi cepat-cepat. (He left quickly.)"
+  },
+  {
+    "indo": "Pelan-pelan",
+    "en": "Slowly",
+    "sentence": "Bicara pelan-pelan. (Speak slowly.)"
+  },
+  {
+    "indo": "Sendiri",
+    "en": "Alone / Own",
+    "sentence": "Saya tinggal sendiri. (I live alone.)"
+  },
+  {
+    "indo": "Bersama",
+    "en": "Together",
+    "sentence": "Kita pergi bersama. (We go together.)"
+  },
+  {
+    "indo": "Gratis",
+    "en": "Free of charge",
+    "sentence": "Makanan ini gratis. (This food is free.)"
+  },
+  {
+    "indo": "Selesai",
+    "en": "Finished",
+    "sentence": "Pekerjaan sudah selesai. (The work is finished.)"
+  },
+  {
+    "indo": "Mulai",
+    "en": "Start",
+    "sentence": "Kita mulai sekarang. (We start now.)"
+  },
+  {
+    "indo": "Lanjut",
+    "en": "Continue",
+    "sentence": "Kita lanjut besok. (We continue tomorrow.)"
+  },
+  {
+    "indo": "Ulang",
+    "en": "Repeat",
+    "sentence": "Tolong ulangi kalimat itu. (Please repeat that sentence.)"
+  },
+  {
+    "indo": "Ingat",
+    "en": "Remember",
+    "sentence": "Saya ingat namamu. (I remember your name.)"
+  },
+  {
+    "indo": "Lupa",
+    "en": "Forget",
+    "sentence": "Saya lupa membawa kunci. (I forgot to bring the key.)"
+  },
+  {
+    "indo": "Menjawab",
+    "en": "To answer",
+    "sentence": "Dia menjawab pertanyaan. (He answers the question.)"
+  },
+  {
+    "indo": "Menyuruh",
+    "en": "To tell/order",
+    "sentence": "Ibu menyuruh saya belajar. (Mother told me to study.)"
+  },
+  {
+    "indo": "Mengundang",
+    "en": "To invite",
+    "sentence": "Saya mengundang teman. (I invite a friend.)"
+  },
+  {
+    "indo": "Menghubungi",
+    "en": "To contact",
+    "sentence": "Saya akan menghubungi kamu. (I will contact you.)"
+  },
+  {
+    "indo": "Menemui",
+    "en": "To meet / See",
+    "sentence": "Saya menemui dokter. (I see a doctor.)"
+  },
+  {
+    "indo": "Berkenalan",
+    "en": "To get acquainted",
+    "sentence": "Kami berkenalan di kampus. (We got acquainted on campus.)"
+  },
+  {
+    "indo": "Berpisah",
+    "en": "To separate",
+    "sentence": "Kami berpisah di bandara. (We separated at the airport.)"
+  },
+  {
+    "indo": "Menikah",
+    "en": "To marry",
+    "sentence": "Mereka menikah tahun lalu. (They got married last year.)"
+  },
+  {
+    "indo": "Lahir",
+    "en": "To be born",
+    "sentence": "Saya lahir di Utrecht. (I was born in Utrecht.)"
+  },
+  {
+    "indo": "Tumbuh",
+    "en": "To grow",
+    "sentence": "Anak itu tumbuh cepat. (That child grows fast.)"
+  },
+  {
+    "indo": "Sakit",
+    "en": "Sick / Pain",
+    "sentence": "Saya sakit kepala. (I have a headache.)"
+  },
+  {
+    "indo": "Sembuh",
+    "en": "Recover",
+    "sentence": "Dia sudah sembuh. (He has recovered.)"
+  },
+  {
+    "indo": "Luka",
+    "en": "Wound",
+    "sentence": "Luka itu kecil. (That wound is small.)"
+  },
+  {
+    "indo": "Hidung",
+    "en": "Nose",
+    "sentence": "Hidung saya tersumbat. (My nose is blocked.)"
+  },
+  {
+    "indo": "Mulut",
+    "en": "Mouth",
+    "sentence": "Tutup mulut saat batuk. (Cover your mouth when coughing.)"
+  },
+  {
+    "indo": "Gigi",
+    "en": "Tooth",
+    "sentence": "Gigi saya sakit. (My tooth hurts.)"
+  },
+  {
+    "indo": "Telinga",
+    "en": "Ear",
+    "sentence": "Telinga saya sakit. (My ear hurts.)"
+  },
+  {
+    "indo": "Kaki",
+    "en": "Foot / Leg",
+    "sentence": "Kaki saya lelah. (My leg is tired.)"
+  },
+  {
+    "indo": "Perut",
+    "en": "Stomach",
+    "sentence": "Perut saya sakit. (My stomach hurts.)"
+  },
+  {
+    "indo": "Kulit",
+    "en": "Skin",
+    "sentence": "Kulit saya kering. (My skin is dry.)"
+  },
+  {
+    "indo": "Rambut",
+    "en": "Hair",
+    "sentence": "Rambut saya pendek. (My hair is short.)"
+  },
+  {
+    "indo": "Wajah",
+    "en": "Face",
+    "sentence": "Wajahnya terlihat senang. (His face looks happy.)"
+  },
+  {
+    "indo": "Napas",
+    "en": "Breath",
+    "sentence": "Tarik napas pelan. (Take a slow breath.)"
+  },
+  {
+    "indo": "Demam",
+    "en": "Fever",
+    "sentence": "Saya demam sejak kemarin. (I have had a fever since yesterday.)"
+  },
+  {
+    "indo": "Batuk",
+    "en": "Cough",
+    "sentence": "Dia batuk terus. (He keeps coughing.)"
+  },
+  {
+    "indo": "Pusing",
+    "en": "Dizzy",
+    "sentence": "Saya merasa pusing. (I feel dizzy.)"
+  },
+  {
+    "indo": "Lelah",
+    "en": "Tired",
+    "sentence": "Saya lelah hari ini. (I am tired today.)"
+  },
+  {
+    "indo": "Istirahat",
+    "en": "Rest",
+    "sentence": "Saya butuh istirahat. (I need rest.)"
+  },
+  {
+    "indo": "Klinik",
+    "en": "Clinic",
+    "sentence": "Saya pergi ke klinik. (I go to the clinic.)"
+  },
+  {
+    "indo": "Apotek",
+    "en": "Pharmacy",
+    "sentence": "Obat tersedia di apotek. (Medicine is available at the pharmacy.)"
+  },
+  {
+    "indo": "Resep",
+    "en": "Prescription / Recipe",
+    "sentence": "Dokter memberi resep. (The doctor gives a prescription.)"
+  },
+  {
+    "indo": "Biaya",
+    "en": "Cost",
+    "sentence": "Berapa biaya perawatan? (What is the treatment cost?)"
+  },
+  {
+    "indo": "Asuransi",
+    "en": "Insurance",
+    "sentence": "Saya punya asuransi kesehatan. (I have health insurance.)"
+  },
+  {
+    "indo": "Duduk",
+    "en": "To sit",
+    "sentence": "Silakan duduk di sini. (Please sit here.)"
+  },
+  {
+    "indo": "Berdiri",
+    "en": "To stand",
+    "sentence": "Dia berdiri di depan pintu. (He stands in front of the door.)"
+  },
+  {
+    "indo": "Buka",
+    "en": "To open",
+    "sentence": "Tolong buka pintunya. (Please open the door.)"
+  },
+  {
+    "indo": "Tutup",
+    "en": "To close",
+    "sentence": "Tutup jendela itu. (Close that window.)"
+  },
+  {
+    "indo": "Bawa",
+    "en": "To bring",
+    "sentence": "Jangan lupa bawa tas. (Don’t forget to bring a bag.)"
+  },
+  {
+    "indo": "Ambil",
+    "en": "To take",
+    "sentence": "Ambil air di dapur. (Take water from the kitchen.)"
+  },
+  {
+    "indo": "Simpan",
+    "en": "To keep/save",
+    "sentence": "Simpan uang ini baik-baik. (Keep this money carefully.)"
+  },
+  {
+    "indo": "Pilih",
+    "en": "To choose",
+    "sentence": "Pilih yang kamu suka. (Choose the one you like.)"
+  },
+  {
+    "indo": "Cari",
+    "en": "To search/look for",
+    "sentence": "Saya cari kunci saya. (I am looking for my key.)"
+  },
+  {
+    "indo": "Tunggu",
+    "en": "To wait",
+    "sentence": "Tunggu sebentar. (Wait a moment.)"
+  },
+  {
+    "indo": "Pakai",
+    "en": "To use/wear",
+    "sentence": "Saya pakai jaket. (I wear a jacket.)"
+  },
+  {
+    "indo": "Beli",
+    "en": "To buy",
+    "sentence": "Saya beli kopi. (I buy coffee.)"
+  },
+  {
+    "indo": "Jual",
+    "en": "To sell",
+    "sentence": "Dia jual makanan. (He sells food.)"
+  },
+  {
+    "indo": "Cuci",
+    "en": "To wash",
+    "sentence": "Saya cuci tangan. (I wash my hands.)"
+  },
+  {
+    "indo": "Lambat",
+    "en": "Slow",
+    "sentence": "Internetnya lambat. (The internet is slow.)"
+  },
+  {
+    "indo": "Air",
+    "en": "Water",
+    "sentence": "Saya mau air dingin. (I want cold water.)"
+  },
+  {
+    "indo": "Kopi",
+    "en": "Coffee",
+    "sentence": "Saya pesan kopi panas. (I order hot coffee.)"
+  },
+  {
+    "indo": "Teh",
+    "en": "Tea",
+    "sentence": "Dia minum teh manis. (She drinks sweet tea.)"
+  },
+  {
+    "indo": "Susu",
+    "en": "Milk",
+    "sentence": "Anak itu minum susu. (That child drinks milk.)"
+  },
+  {
+    "indo": "Roti",
+    "en": "Bread",
+    "sentence": "Saya makan roti pagi ini. (I ate bread this morning.)"
+  },
+  {
+    "indo": "Pisang",
+    "en": "Banana",
+    "sentence": "Pisang ini manis. (This banana is sweet.)"
+  },
+  {
+    "indo": "Apel",
+    "en": "Apple",
+    "sentence": "Dia makan apel merah. (She eats a red apple.)"
+  },
+  {
+    "indo": "Jeruk",
+    "en": "Orange",
+    "sentence": "Saya minum jus jeruk. (I drink orange juice.)"
+  },
+  {
+    "indo": "Asam",
+    "en": "Sour",
+    "sentence": "Mangga ini masih asam. (This mango is still sour.)"
+  },
+  {
+    "indo": "Enak",
+    "en": "Delicious",
+    "sentence": "Makanan Bali sangat enak. (Balinese food is delicious.)"
+  },
+  {
+    "indo": "Halte",
+    "en": "Bus stop",
+    "sentence": "Tunggu di halte bus. (Wait at the bus stop.)"
+  },
+  {
+    "indo": "Jalan raya",
+    "en": "Main road",
+    "sentence": "Jalan raya macet pagi ini. (The main road is jammed this morning.)"
+  },
+  {
+    "indo": "Lampu merah",
+    "en": "Traffic light",
+    "sentence": "Belok kanan setelah lampu merah. (Turn right after the traffic light.)"
+  },
+  {
+    "indo": "Bensin",
+    "en": "Petrol",
+    "sentence": "Motor saya butuh bensin. (My motorbike needs petrol.)"
+  },
+  {
+    "indo": "Parkir",
+    "en": "Parking",
+    "sentence": "Di mana tempat parkir? (Where is the parking place?)"
+  },
+  {
+    "indo": "Macet",
+    "en": "Traffic jam",
+    "sentence": "Jalan ke Canggu sering macet. (The road to Canggu is often jammed.)"
+  },
+  {
+    "indo": "Helm",
+    "en": "Helmet",
+    "sentence": "Pakai helm saat naik motor. (Wear a helmet when riding a motorbike.)"
+  },
+  {
+    "indo": "Tembok",
+    "en": "Wall",
+    "sentence": "Tembok itu putih. (That wall is white.)"
+  },
+  {
+    "indo": "Lemari",
+    "en": "Cupboard",
+    "sentence": "Baju ada di lemari. (The clothes are in the cupboard.)"
+  },
+  {
+    "indo": "Kulkas",
+    "en": "Fridge",
+    "sentence": "Susu ada di kulkas. (The milk is in the fridge.)"
+  },
+  {
+    "indo": "Kompor",
+    "en": "Stove",
+    "sentence": "Kompor belum menyala. (The stove is not on yet.)"
+  },
+  {
+    "indo": "Piring",
+    "en": "Plate",
+    "sentence": "Ambil piring bersih. (Take a clean plate.)"
+  },
+  {
+    "indo": "Gelas",
+    "en": "Glass",
+    "sentence": "Gelas itu kosong. (That glass is empty.)"
+  },
+  {
+    "indo": "Sendok",
+    "en": "Spoon",
+    "sentence": "Saya butuh sendok. (I need a spoon.)"
+  },
+  {
+    "indo": "Garpu",
+    "en": "Fork",
+    "sentence": "Garpu ada di meja. (The fork is on the table.)"
+  },
+  {
+    "indo": "Januari",
+    "en": "January",
+    "sentence": "Saya lahir bulan Januari. (I was born in January.)"
+  },
+  {
+    "indo": "Februari",
+    "en": "February",
+    "sentence": "Februari adalah bulan pendek. (February is a short month.)"
+  },
+  {
+    "indo": "Maret",
+    "en": "March",
+    "sentence": "Kami mulai pada bulan Maret. (We start in March.)"
+  },
+  {
+    "indo": "April",
+    "en": "April",
+    "sentence": "Dia datang bulan April. (He comes in April.)"
+  },
+  {
+    "indo": "Mei",
+    "en": "May",
+    "sentence": "Liburan dimulai bulan Mei. (The holiday starts in May.)"
+  },
+  {
+    "indo": "Juni",
+    "en": "June",
+    "sentence": "Ujian selesai bulan Juni. (The exam finishes in June.)"
+  },
+  {
+    "indo": "Juli",
+    "en": "July",
+    "sentence": "Saya pergi bulan Juli. (I leave in July.)"
+  },
+  {
+    "indo": "Agustus",
+    "en": "August",
+    "sentence": "Indonesia merdeka pada bulan Agustus. (Indonesia became independent in August.)"
+  },
+  {
+    "indo": "September",
+    "en": "September",
+    "sentence": "Kelas mulai bulan September. (Class starts in September.)"
+  },
+  {
+    "indo": "Oktober",
+    "en": "October",
+    "sentence": "Cuaca berubah bulan Oktober. (The weather changes in October.)"
+  },
+  {
+    "indo": "November",
+    "en": "November",
+    "sentence": "Saya kembali bulan November. (I return in November.)"
+  },
+  {
+    "indo": "Desember",
+    "en": "December",
+    "sentence": "Desember biasanya ramai. (December is usually busy.)"
+  },
+  {
+    "indo": "Seberang",
+    "en": "Across",
+    "sentence": "Bank ada di seberang jalan. (The bank is across the street.)"
+  },
+  {
+    "indo": "Kos",
+    "en": "Boarding room",
+    "sentence": "Dia tinggal di kos murah. (He lives in a cheap boarding room.)"
+  },
+  {
+    "indo": "Kontrakan",
+    "en": "Rented house",
+    "sentence": "Mereka mencari kontrakan. (They are looking for a rented house.)"
+  },
+  {
+    "indo": "Ojek",
+    "en": "Motorbike taxi",
+    "sentence": "Saya pesan ojek online. (I order an online motorbike taxi.)"
+  },
+  {
+    "indo": "Sawah",
+    "en": "Rice field",
+    "sentence": "Sawah itu sangat hijau. (The rice field is very green.)"
+  },
+  {
+    "indo": "Pura",
+    "en": "Temple",
+    "sentence": "Pura itu dekat pantai. (The temple is near the beach.)"
+  },
+  {
+    "indo": "Gunung",
+    "en": "Mountain",
+    "sentence": "Gunung Agung terlihat indah. (Mount Agung looks beautiful.)"
+  },
+  {
+    "indo": "SIM",
+    "en": "Driving license",
+    "sentence": "Saya harus membawa SIM. (I must bring my driving license.)"
+  },
+  {
+    "indo": "KTP",
+    "en": "Indonesian ID card",
+    "sentence": "Dia menunjukkan KTP. (He shows an Indonesian ID card.)"
+  },
+  {
+    "indo": "Pajak",
+    "en": "Tax",
+    "sentence": "Saya harus bayar pajak. (I have to pay tax.)"
+  },
+  {
+    "indo": "Sewa",
+    "en": "Rent",
+    "sentence": "Berapa harga sewa rumah ini? (How much is the rent for this house?)"
+  },
+  {
+    "indo": "Kontrak",
+    "en": "Contract",
+    "sentence": "Baca kontrak sebelum tanda tangan. (Read the contract before signing.)"
+  },
+  {
+    "indo": "Notaris",
+    "en": "Notary",
+    "sentence": "Kami bertemu notaris besok. (We meet the notary tomorrow.)"
+  },
+  {
+    "indo": "Tanda tangan",
+    "en": "Signature/to sign",
+    "sentence": "Tolong tanda tangan di sini. (Please sign here.)"
+  },
+  {
+    "indo": "Kwitansi",
+    "en": "Receipt",
+    "sentence": "Minta kwitansi setelah bayar. (Ask for a receipt after paying.)"
+  },
+  {
+    "indo": "Tagihan",
+    "en": "Bill",
+    "sentence": "Tagihan listrik sudah datang. (The electricity bill has arrived.)"
+  },
+  {
+    "indo": "Listrik",
+    "en": "Electricity",
+    "sentence": "Listrik mati tadi malam. (The electricity went out last night.)"
+  },
+  {
+    "indo": "Wi-Fi",
+    "en": "Wi-Fi",
+    "sentence": "Wi-Fi di hotel cepat. (The hotel Wi-Fi is fast.)"
+  },
+  {
+    "indo": "Pulsa",
+    "en": "Phone credit",
+    "sentence": "Saya beli pulsa di minimarket. (I buy phone credit at the minimarket.)"
+  },
+  {
+    "indo": "Kuota",
+    "en": "Data quota",
+    "sentence": "Kuota internet saya habis. (My internet data is finished.)"
+  },
+  {
+    "indo": "Bank",
+    "en": "Bank",
+    "sentence": "Bank tutup jam tiga. (The bank closes at three.)"
+  },
+  {
+    "indo": "Rekening",
+    "en": "Bank account",
+    "sentence": "Saya punya rekening baru. (I have a new bank account.)"
+  },
+  {
+    "indo": "Transfer",
+    "en": "Transfer",
+    "sentence": "Saya sudah transfer uang. (I have transferred the money.)"
+  },
+  {
+    "indo": "Saldo",
+    "en": "Balance",
+    "sentence": "Cek saldo rekeningmu. (Check your account balance.)"
+  },
+  {
+    "indo": "Kembalian",
+    "en": "Change",
+    "sentence": "Kembaliannya kurang. (The change is short.)"
+  },
+  {
+    "indo": "Uang",
+    "en": "Money",
+    "sentence": "Saya butuh uang tunai. (I need cash.)"
+  },
+  {
+    "indo": "Domisili",
+    "en": "Domicile",
+    "sentence": "Alamat domisili saya di Bali. (My domicile address is in Bali.)"
+  },
+  {
+    "indo": "Nomor",
+    "en": "Number",
+    "sentence": "Berapa nomor teleponmu? (What is your phone number?)"
+  },
+  {
+    "indo": "Aplikasi",
+    "en": "Application/app",
+    "sentence": "Aplikasi ini mudah dipakai. (This app is easy to use.)"
+  },
+  {
+    "indo": "Kata sandi",
+    "en": "Password",
+    "sentence": "Jangan bagikan kata sandi. (Do not share your password.)"
+  },
+  {
+    "indo": "Layar",
+    "en": "Screen",
+    "sentence": "Layar laptop saya rusak. (My laptop screen is broken.)"
+  },
+  {
+    "indo": "Kabel",
+    "en": "Cable",
+    "sentence": "Saya butuh kabel baru. (I need a new cable.)"
+  },
+  {
+    "indo": "Baterai",
+    "en": "Battery",
+    "sentence": "Baterai ponsel hampir habis. (The phone battery is almost empty.)"
+  },
+  {
+    "indo": "Pengisi daya",
+    "en": "Charger",
+    "sentence": "Di mana pengisi daya saya? (Where is my charger?)"
+  },
+  {
+    "indo": "Laptop",
+    "en": "Laptop",
+    "sentence": "Saya bekerja dengan laptop. (I work with a laptop.)"
+  },
+  {
+    "indo": "Pilek",
+    "en": "Cold/runny nose",
+    "sentence": "Saya pilek sejak kemarin. (I have had a cold since yesterday.)"
+  },
+  {
+    "indo": "Lidah",
+    "en": "Tongue",
+    "sentence": "Lidah saya terasa panas. (My tongue feels hot.)"
+  },
+  {
+    "indo": "Keringat",
+    "en": "Sweat",
+    "sentence": "Bajunya penuh keringat. (His shirt is full of sweat.)"
+  },
+  {
+    "indo": "Obat tetes",
+    "en": "Drops",
+    "sentence": "Saya pakai obat tetes telinga. (I use ear drops.)"
+  },
+  {
+    "indo": "Janji temu",
+    "en": "Appointment",
+    "sentence": "Saya punya janji temu dengan dokter. (I have an appointment with the doctor.)"
+  },
+  {
+    "indo": "Pindah",
+    "en": "To move",
+    "sentence": "Saya pindah ke Bali. (I moved to Bali.)"
+  },
+  {
+    "indo": "Sewa-menyewa",
+    "en": "Rental/lease",
+    "sentence": "Perjanjian sewa-menyewa sudah siap. (The rental agreement is ready.)"
+  },
+  {
+    "indo": "Pemilik",
+    "en": "Owner",
+    "sentence": "Pemilik rumah tinggal di luar negeri. (The house owner lives abroad.)"
+  },
+  {
+    "indo": "Penyewa",
+    "en": "Tenant",
+    "sentence": "Penyewa membayar sewa bulanan. (The tenant pays monthly rent.)"
+  },
+  {
+    "indo": "Agen",
+    "en": "Agent",
+    "sentence": "Agen properti itu membantu kami. (The property agent helps us.)"
+  },
+  {
+    "indo": "Properti",
+    "en": "Property",
+    "sentence": "Saya mencari properti di Lombok. (I am looking for property in Lombok.)"
+  },
+  {
+    "indo": "Tanah",
+    "en": "Land",
+    "sentence": "Tanah itu dekat pantai. (The land is near the beach.)"
+  },
+  {
+    "indo": "Bangunan",
+    "en": "Building",
+    "sentence": "Bangunan ini masih baru. (This building is still new.)"
+  },
+  {
+    "indo": "Villa",
+    "en": "Villa",
+    "sentence": "Villa itu punya kolam renang. (That villa has a swimming pool.)"
+  },
+  {
+    "indo": "Kolam renang",
+    "en": "Swimming pool",
+    "sentence": "Kolam renang bersih. (The swimming pool is clean.)"
+  },
+  {
+    "indo": "Kunci kontak",
+    "en": "Ignition key",
+    "sentence": "Kunci kontak motor hilang. (The motorbike key is missing.)"
+  },
+  {
+    "indo": "Catatan",
+    "en": "Note",
+    "sentence": "Saya membuat catatan kecil. (I make a small note.)"
+  },
+  {
+    "indo": "Daftar",
+    "en": "List",
+    "sentence": "Tulis daftar belanja. (Write the shopping list.)"
+  },
+  {
+    "indo": "Latihan",
+    "en": "Exercise/practice",
+    "sentence": "Latihan ini membantu saya. (This exercise helps me.)"
+  },
+  {
+    "indo": "Laki-laki",
+    "en": "Male/man",
+    "sentence": "Anak laki-laki itu bermain bola. (That boy plays football.)"
+  },
+  {
+    "indo": "Perempuan",
+    "en": "Female/woman",
+    "sentence": "Perempuan itu memakai baju merah. (That woman wears a red shirt.)"
+  },
+  {
+    "indo": "Pria",
+    "en": "Man",
+    "sentence": "Pria itu bekerja di kantor. (That man works at the office.)"
+  },
+  {
+    "indo": "Muda",
+    "en": "Young",
+    "sentence": "Dia masih muda. (He is still young.)"
+  },
+  {
+    "indo": "Capek",
+    "en": "Tired",
+    "sentence": "Saya capek setelah bekerja. (I am tired after working.)"
+  },
+  {
+    "indo": "Terburu-buru",
+    "en": "In a hurry",
+    "sentence": "Saya sedang terburu-buru. (I am in a hurry.)"
+  },
+  {
+    "indo": "Santai",
+    "en": "Relaxed",
+    "sentence": "Hari ini saya santai di rumah. (Today I relax at home.)"
+  },
+  {
+    "indo": "Basah",
+    "en": "Wet",
+    "sentence": "Baju saya basah. (My shirt is wet.)"
+  },
+  {
+    "indo": "Penuh",
+    "en": "Full",
+    "sentence": "Restoran itu penuh. (That restaurant is full.)"
+  },
+  {
+    "indo": "Ringan",
+    "en": "Lightweight",
+    "sentence": "Tas ini ringan. (This bag is light.)"
+  },
+  {
+    "indo": "Gemuk",
+    "en": "Fat",
+    "sentence": "Kucing itu gemuk. (That cat is fat.)"
+  },
+  {
+    "indo": "Kurus",
+    "en": "Thin",
+    "sentence": "Dia terlihat kurus. (He looks thin.)"
+  },
+  {
+    "indo": "Pendek",
+    "en": "Short",
+    "sentence": "Jalan ini lebih pendek. (This road is shorter.)"
+  },
+  {
+    "indo": "Panjang",
+    "en": "Long",
+    "sentence": "Rambutnya panjang. (Her hair is long.)"
+  },
+  {
+    "indo": "Pertama",
+    "en": "First",
+    "sentence": "Ini pengalaman pertama saya. (This is my first experience.)"
+  },
+  {
+    "indo": "Kedua",
+    "en": "Second",
+    "sentence": "Dia anak kedua. (He is the second child.)"
+  },
+  {
+    "indo": "Ketiga",
+    "en": "Third",
+    "sentence": "Ini pilihan ketiga. (This is the third choice.)"
+  },
+  {
+    "indo": "Terakhir",
+    "en": "Last",
+    "sentence": "Ini hari terakhir. (This is the last day.)"
+  },
+  {
+    "indo": "Berikutnya",
+    "en": "Next",
+    "sentence": "Apa langkah berikutnya? (What is the next step?)"
+  },
+  {
+    "indo": "Sebelumnya",
+    "en": "Previous/before",
+    "sentence": "Saya sudah melihatnya sebelumnya. (I have seen it before.)"
+  },
+  {
+    "indo": "Tiba-tiba",
+    "en": "Suddenly",
+    "sentence": "Tiba-tiba hujan turun. (Suddenly it rained.)"
+  },
+  {
+    "indo": "Kanan-kiri",
+    "en": "Right and left",
+    "sentence": "Lihat kanan-kiri sebelum menyeberang. (Look right and left before crossing.)"
+  },
+  {
+    "indo": "Menyeberang",
+    "en": "To cross",
+    "sentence": "Hati-hati saat menyeberang jalan. (Be careful when crossing the road.)"
+  },
+  {
+    "indo": "Melewati",
+    "en": "To pass by",
+    "sentence": "Kami melewati pasar. (We pass by the market.)"
+  },
+  {
+    "indo": "Mengunci",
+    "en": "To lock",
+    "sentence": "Jangan lupa mengunci pintu. (Don’t forget to lock the door.)"
+  },
+  {
+    "indo": "Memesan",
+    "en": "To order/book",
+    "sentence": "Saya memesan makanan lewat aplikasi. (I order food through an app.)"
+  },
+  {
+    "indo": "Mengantar",
+    "en": "To deliver/take someone",
+    "sentence": "Ojek mengantar saya ke hotel. (The motorbike taxi takes me to the hotel.)"
+  },
+  {
+    "indo": "Menjemput",
+    "en": "To pick up",
+    "sentence": "Saya menjemput teman di bandara. (I pick up a friend at the airport.)"
+  },
+  {
+    "indo": "Mengunduh",
+    "en": "To download",
+    "sentence": "Saya mengunduh aplikasi baru. (I download a new app.)"
+  },
+  {
+    "indo": "Mengunggah",
+    "en": "To upload",
+    "sentence": "Dia mengunggah foto ke internet. (He uploads a photo to the internet.)"
+  },
+  {
+    "indo": "Menghapus",
+    "en": "To delete",
+    "sentence": "Saya menghapus pesan lama. (I delete old messages.)"
+  },
+  {
+    "indo": "Menyimpan",
+    "en": "To save",
+    "sentence": "Jangan lupa menyimpan dokumen. (Don’t forget to save the document.)"
+  },
+  {
+    "indo": "Menerjemahkan",
+    "en": "To translate",
+    "sentence": "Bisa menerjemahkan kalimat ini? (Can you translate this sentence?)"
+  },
+  {
+    "indo": "Mengucapkan",
+    "en": "To pronounce/say",
+    "sentence": "Coba ucapkan kata ini. (Try to pronounce this word.)"
+  },
+  {
+    "indo": "Berlatih",
+    "en": "To practice",
+    "sentence": "Saya berlatih bahasa Indonesia. (I practice Indonesian.)"
+  },
+  {
+    "indo": "Mengulang",
+    "en": "To repeat",
+    "sentence": "Tolong ulangi sekali lagi. (Please repeat once more.)"
+  },
+  {
+    "indo": "Menggambar",
+    "en": "To draw",
+    "sentence": "Anak itu menggambar rumah. (That child draws a house.)"
+  },
+  {
+    "indo": "Bernyanyi",
+    "en": "To sing",
+    "sentence": "Dia suka bernyanyi. (She likes to sing.)"
+  },
+  {
+    "indo": "Menari",
+    "en": "To dance",
+    "sentence": "Mereka menari di acara itu. (They dance at that event.)"
+  },
+  {
+    "indo": "Menginap",
+    "en": "To stay overnight",
+    "sentence": "Saya menginap di hotel kecil. (I stay overnight at a small hotel.)"
+  },
+  {
+    "indo": "Berbelanja",
+    "en": "To shop",
+    "sentence": "Kami berbelanja di pasar. (We shop at the market.)"
+  },
+  {
+    "indo": "Menawar",
+    "en": "To bargain",
+    "sentence": "Boleh saya menawar harga? (May I bargain the price?)"
+  },
+  {
+    "indo": "Mengantri",
+    "en": "To queue",
+    "sentence": "Kita harus mengantri. (We have to queue.)"
+  },
+  {
+    "indo": "Membatalkan",
+    "en": "To cancel",
+    "sentence": "Saya membatalkan pesanan. (I cancel the order.)"
+  },
+  {
+    "indo": "Menukar",
+    "en": "To exchange",
+    "sentence": "Saya mau menukar uang. (I want to exchange money.)"
+  },
+  {
+    "indo": "Menyewa",
+    "en": "To rent",
+    "sentence": "Kami menyewa motor. (We rent a motorbike.)"
+  },
+  {
+    "indo": "Membersihkan",
+    "en": "To clean",
+    "sentence": "Saya membersihkan kamar. (I clean the room.)"
+  },
+  {
+    "indo": "Membuang",
+    "en": "To throw away",
+    "sentence": "Buang sampah di tempatnya. (Throw trash in its place.)"
+  },
+  {
+    "indo": "Belanja",
+    "en": "Shopping",
+    "sentence": "Saya pergi belanja sore ini. (I go shopping this afternoon.)"
+  },
+  {
+    "indo": "Minimarket",
+    "en": "Minimarket",
+    "sentence": "Ada minimarket dekat sini. (There is a minimarket near here.)"
+  },
+  {
+    "indo": "Supermarket",
+    "en": "Supermarket",
+    "sentence": "Kami belanja di supermarket. (We shop at the supermarket.)"
+  },
+  {
+    "indo": "Pasar malam",
+    "en": "Night market",
+    "sentence": "Pasar malam itu ramai. (That night market is crowded.)"
+  },
+  {
+    "indo": "Kafe",
+    "en": "Cafe",
+    "sentence": "Saya bekerja dari kafe. (I work from a cafe.)"
+  },
+  {
+    "indo": "Porsi",
+    "en": "Portion",
+    "sentence": "Porsinya terlalu besar. (The portion is too big.)"
+  },
+  {
+    "indo": "Sarapan",
+    "en": "Breakfast",
+    "sentence": "Saya sarapan jam delapan. (I have breakfast at eight.)"
+  },
+  {
+    "indo": "Makan siang",
+    "en": "Lunch",
+    "sentence": "Makan siang sudah siap. (Lunch is ready.)"
+  },
+  {
+    "indo": "Makan malam",
+    "en": "Dinner",
+    "sentence": "Kita makan malam di luar. (We have dinner outside.)"
+  },
+  {
+    "indo": "Camilan",
+    "en": "Snack",
+    "sentence": "Saya beli camilan kecil. (I buy a small snack.)"
+  },
+  {
+    "indo": "Sambal",
+    "en": "Chili sauce",
+    "sentence": "Sambal ini terlalu pedas. (This chili sauce is too spicy.)"
+  },
+  {
+    "indo": "Kecap",
+    "en": "Soy sauce",
+    "sentence": "Tambahkan sedikit kecap. (Add a little soy sauce.)"
+  },
+  {
+    "indo": "Minyak",
+    "en": "Oil",
+    "sentence": "Minyak goreng habis. (The cooking oil is finished.)"
+  },
+  {
+    "indo": "Mentega",
+    "en": "Butter",
+    "sentence": "Roti ini pakai mentega. (This bread uses butter.)"
+  },
+  {
+    "indo": "Keju",
+    "en": "Cheese",
+    "sentence": "Saya suka roti keju. (I like cheese bread.)"
+  },
+  {
+    "indo": "Saus",
+    "en": "Sauce",
+    "sentence": "Sausnya enak sekali. (The sauce is very tasty.)"
+  },
+  {
+    "indo": "Sup",
+    "en": "Soup",
+    "sentence": "Sup ayam ini hangat. (This chicken soup is warm.)"
+  },
+  {
+    "indo": "Bubur",
+    "en": "Porridge",
+    "sentence": "Saya makan bubur pagi. (I eat porridge in the morning.)"
+  },
+  {
+    "indo": "Kacang",
+    "en": "Peanut/bean",
+    "sentence": "Kacang ini gurih. (These peanuts are savory.)"
+  },
+  {
+    "indo": "Kentang",
+    "en": "Potato",
+    "sentence": "Kentang goreng itu renyah. (Those fries are crispy.)"
+  },
+  {
+    "indo": "Wortel",
+    "en": "Carrot",
+    "sentence": "Wortel baik untuk mata. (Carrots are good for the eyes.)"
+  },
+  {
+    "indo": "Bawang",
+    "en": "Onion",
+    "sentence": "Bawang membuat masakan harum. (Onion makes food smell good.)"
+  },
+  {
+    "indo": "Cabai",
+    "en": "Chili",
+    "sentence": "Jangan tambah cabai. (Don’t add chili.)"
+  },
+  {
+    "indo": "Tomat",
+    "en": "Tomato",
+    "sentence": "Tomat ini segar. (This tomato is fresh.)"
+  },
+  {
+    "indo": "Timun",
+    "en": "Cucumber",
+    "sentence": "Saya suka timun dingin. (I like cold cucumber.)"
+  },
+  {
+    "indo": "Mangga",
+    "en": "Mango",
+    "sentence": "Mangga Bali sangat manis. (Balinese mangoes are very sweet.)"
+  },
+  {
+    "indo": "Semangka",
+    "en": "Watermelon",
+    "sentence": "Semangka ini segar. (This watermelon is refreshing.)"
+  },
+  {
+    "indo": "Kelapa",
+    "en": "Coconut",
+    "sentence": "Saya minum air kelapa. (I drink coconut water.)"
+  },
+  {
+    "indo": "Alpukat",
+    "en": "Avocado",
+    "sentence": "Jus alpukat itu enak. (Avocado juice is delicious.)"
+  },
+  {
+    "indo": "Madu",
+    "en": "Honey",
+    "sentence": "Teh ini pakai madu. (This tea uses honey.)"
+  },
+  {
+    "indo": "Botol",
+    "en": "Bottle",
+    "sentence": "Ambil botol air. (Take the water bottle.)"
+  },
+  {
+    "indo": "Kaleng",
+    "en": "Can",
+    "sentence": "Dia membeli minuman kaleng. (He buys a canned drink.)"
+  },
+  {
+    "indo": "Kantong",
+    "en": "Bag/pouch",
+    "sentence": "Masukkan ke kantong plastik. (Put it in the plastic bag.)"
+  },
+  {
+    "indo": "Plastik",
+    "en": "Plastic",
+    "sentence": "Kurangi penggunaan plastik. (Reduce plastic use.)"
+  },
+  {
+    "indo": "Penghapus",
+    "en": "Eraser",
+    "sentence": "Saya butuh penghapus. (I need an eraser.)"
+  },
+  {
+    "indo": "Buku tulis",
+    "en": "Notebook",
+    "sentence": "Catat di buku tulis. (Write it in the notebook.)"
+  },
+  {
+    "indo": "Koper",
+    "en": "Suitcase",
+    "sentence": "Koper saya sudah penuh. (My suitcase is full.)"
+  },
+  {
+    "indo": "Kacamata",
+    "en": "Glasses",
+    "sentence": "Kacamata saya tertinggal. (My glasses were left behind.)"
+  },
+  {
+    "indo": "Jam tangan",
+    "en": "Watch",
+    "sentence": "Jam tangan ini rusak. (This watch is broken.)"
+  },
+  {
+    "indo": "Cincin",
+    "en": "Ring",
+    "sentence": "Cincin itu mahal. (That ring is expensive.)"
+  },
+  {
+    "indo": "Kalung",
+    "en": "Necklace",
+    "sentence": "Dia memakai kalung emas. (She wears a gold necklace.)"
+  },
+  {
+    "indo": "Payung",
+    "en": "Umbrella",
+    "sentence": "Bawa payung karena hujan. (Bring an umbrella because it is raining.)"
+  },
+  {
+    "indo": "Handuk",
+    "en": "Towel",
+    "sentence": "Handuk bersih ada di kamar. (A clean towel is in the room.)"
+  },
+  {
+    "indo": "Sabun",
+    "en": "Soap",
+    "sentence": "Sabun mandi sudah habis. (The bath soap is finished.)"
+  },
+  {
+    "indo": "Sampo",
+    "en": "Shampoo",
+    "sentence": "Saya beli sampo baru. (I buy new shampoo.)"
+  },
+  {
+    "indo": "Sikat gigi",
+    "en": "Toothbrush",
+    "sentence": "Sikat gigi saya di kamar mandi. (My toothbrush is in the bathroom.)"
+  },
+  {
+    "indo": "Pasta gigi",
+    "en": "Toothpaste",
+    "sentence": "Pasta gigi hampir habis. (The toothpaste is almost finished.)"
+  },
+  {
+    "indo": "Cermin",
+    "en": "Mirror",
+    "sentence": "Ada cermin di kamar. (There is a mirror in the room.)"
+  },
+  {
+    "indo": "Kipas angin",
+    "en": "Fan",
+    "sentence": "Kipas angin menyala. (The fan is on.)"
+  },
+  {
+    "indo": "AC",
+    "en": "Air conditioner",
+    "sentence": "AC kamar terlalu dingin. (The room air conditioner is too cold.)"
+  },
+  {
+    "indo": "Remote",
+    "en": "Remote control",
+    "sentence": "Di mana remote TV? (Where is the TV remote?)"
+  },
+  {
+    "indo": "Televisi",
+    "en": "Television",
+    "sentence": "Televisi di ruang tamu besar. (The television in the living room is big.)"
+  },
+  {
+    "indo": "Sofa",
+    "en": "Sofa",
+    "sentence": "Saya duduk di sofa. (I sit on the sofa.)"
+  },
+  {
+    "indo": "Ruang tamu",
+    "en": "Living room",
+    "sentence": "Tamu menunggu di ruang tamu. (The guest waits in the living room.)"
+  },
+  {
+    "indo": "Halaman",
+    "en": "Yard/page",
+    "sentence": "Anak-anak bermain di halaman. (Children play in the yard.)"
+  },
+  {
+    "indo": "Pagar",
+    "en": "Fence",
+    "sentence": "Pagar rumah berwarna hitam. (The house fence is black.)"
+  },
+  {
+    "indo": "Tangga",
+    "en": "Stairs",
+    "sentence": "Naik tangga ke lantai dua. (Go up the stairs to the second floor.)"
+  },
+  {
+    "indo": "Garasi",
+    "en": "Garage",
+    "sentence": "Mobil ada di garasi. (The car is in the garage.)"
+  },
+  {
+    "indo": "Kebun",
+    "en": "Garden",
+    "sentence": "Ibu bekerja di kebun. (Mother works in the garden.)"
+  },
+  {
+    "indo": "Tanaman",
+    "en": "Plant",
+    "sentence": "Tanaman ini butuh air. (This plant needs water.)"
+  },
+  {
+    "indo": "Bunga",
+    "en": "Flower",
+    "sentence": "Bunga itu cantik. (That flower is beautiful.)"
+  },
+  {
+    "indo": "Pohon",
+    "en": "Tree",
+    "sentence": "Pohon mangga tinggi. (The mango tree is tall.)"
+  },
+  {
+    "indo": "Daun",
+    "en": "Leaf",
+    "sentence": "Daun jatuh ke tanah. (The leaf falls to the ground.)"
+  },
+  {
+    "indo": "Akar",
+    "en": "Root",
+    "sentence": "Akar pohon kuat. (The tree root is strong.)"
+  },
+  {
+    "indo": "Batu",
+    "en": "Stone",
+    "sentence": "Ada batu besar di jalan. (There is a big stone on the road.)"
+  },
+  {
+    "indo": "Pasir",
+    "en": "Sand",
+    "sentence": "Pasir pantai lembut. (The beach sand is soft.)"
+  },
+  {
+    "indo": "Laut",
+    "en": "Sea",
+    "sentence": "Laut hari ini tenang. (The sea is calm today.)"
+  },
+  {
+    "indo": "Ombak",
+    "en": "Wave",
+    "sentence": "Ombak di pantai besar. (The waves at the beach are big.)"
+  },
+  {
+    "indo": "Sungai",
+    "en": "River",
+    "sentence": "Sungai itu bersih. (That river is clean.)"
+  },
+  {
+    "indo": "Danau",
+    "en": "Lake",
+    "sentence": "Kami pergi ke danau. (We go to the lake.)"
+  },
+  {
+    "indo": "Pulau",
+    "en": "Island",
+    "sentence": "Bali adalah pulau indah. (Bali is a beautiful island.)"
+  },
+  {
+    "indo": "Hutan",
+    "en": "Forest",
+    "sentence": "Hutan itu sangat luas. (That forest is very wide.)"
+  },
+  {
+    "indo": "Langit",
+    "en": "Sky",
+    "sentence": "Langit terlihat cerah. (The sky looks clear.)"
+  },
+  {
+    "indo": "Awan",
+    "en": "Cloud",
+    "sentence": "Awan gelap mulai datang. (Dark clouds begin to come.)"
+  },
+  {
+    "indo": "Angin",
+    "en": "Wind",
+    "sentence": "Angin malam cukup dingin. (The night wind is quite cold.)"
+  },
+  {
+    "indo": "Hujan",
+    "en": "Rain",
+    "sentence": "Hujan turun deras. (The rain falls heavily.)"
+  },
+  {
+    "indo": "Gerimis",
+    "en": "Drizzle",
+    "sentence": "Sekarang hanya gerimis. (Now it is only drizzling.)"
+  },
+  {
+    "indo": "Musim",
+    "en": "Season",
+    "sentence": "Musim hujan sudah mulai. (The rainy season has started.)"
+  },
+  {
+    "indo": "Kemarau",
+    "en": "Dry season",
+    "sentence": "Musim kemarau sangat panas. (The dry season is very hot.)"
+  },
+  {
+    "indo": "Suhu",
+    "en": "Temperature",
+    "sentence": "Suhu hari ini tinggi. (The temperature today is high.)"
+  },
+  {
+    "indo": "Lembap",
+    "en": "Humid",
+    "sentence": "Udara Bali lembap. (The air in Bali is humid.)"
+  },
+  {
+    "indo": "Cerah",
+    "en": "Clear/bright",
+    "sentence": "Cuaca hari ini cerah. (The weather today is clear.)"
+  }
+]
