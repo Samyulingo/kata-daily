@@ -172,17 +172,24 @@ fetch('words.json')
             return { words: selected, dateStr: dateString };
         }
 
-        // 5. Forgiveness Logic (String Matching)
-        function isAnswerCorrect(input, correct) {
-            // Helper function to clean a string
-            const clean = (str) => {
-                return str.toLowerCase()
-                          .replace(/^to\s+/, '') // Removes "to " at the start
-                          .replace(/[^\w\s]/g, '') // Removes punctuation
-                          .trim(); // Removes accidental spaces on ends
-            };
-            
-            return clean(input) === clean(correct);
+      // 5. Updated Forgiveness Logic (Handles multiple answers like "Life / Live")
+function isAnswerCorrect(input, correct) {
+    // Helper function to clean a string
+    const clean = (str) => {
+        return str.toLowerCase()
+                  .replace(/^to\s+/, '') // Removes "to "
+                  .replace(/[^\w\s]/g, '') // Removes punctuation
+                  .trim();
+    };
+
+    // 1. Clean the user's input
+    const cleanedInput = clean(input);
+
+    // 2. Split the correct answer by "/" and clean each option individually
+    const options = correct.split('/').map(opt => clean(opt));
+
+    // 3. Return true if the user's input is found in the list of options
+    return options.includes(cleanedInput);
         }
 
         // 6. UI Update Functions
